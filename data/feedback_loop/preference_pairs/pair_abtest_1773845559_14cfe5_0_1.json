@@ -1,0 +1,100 @@
+{
+  "pair_id": "pair_abtest_1773845559_14cfe5_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Apple AirPods Pro 3 wireless earbuds",
+  "score_difference": 17.1,
+  "preferred": {
+    "variant_id": "v3_336b",
+    "composite_score": 85.3,
+    "grade": "A",
+    "creative_brief": {
+      "tone": "Innovative, sleek, aspirational with a focus on sophistication and technological excellence",
+      "visual_style": "Minimalistic yet sophisticated with clean lines. Emphasize sleek product imagery against contrasting backgrounds to highlight the product's design and technology.",
+      "conceptual_technique": "Emotionally engaging storytelling with a focus on lifestyle integration, utilizing both digital and experiential marketing channels",
+      "emotion": "Tranquility, empowerment, exclusivity",
+      "typography_style": "San Francisco sans-serif, clean and modern with a high-tech aesthetic",
+      "color_scheme": "space grey, crisp white, and ethereal blue",
+      "headline": "Silence, Sound, and Everything in Between.",
+      "call_to_action": "Explore the Sound",
+      "ad_style": "Emotionally engaging storytelling with a focus on lifestyle integration, utilizing both digital and experiential marketing channels",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "income": "Middle to upper-middle class",
+          "geography": "Global, with a focus on urban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Tech-savvy, early adopters, style-conscious",
+          "values": "Quality, innovation, brand prestige"
+        }
+      },
+      "key_benefits": [
+        "Advanced noise-cancellation technology",
+        "Superior sound quality with spatial audio",
+        "Seamless integration with Apple ecosystem"
+      ],
+      "product_highlight": "Cutting-edge noise-cancellation feature that offers an unparalleled listening experience"
+    },
+    "quality_breakdown": {
+      "readability": 84.2,
+      "placement": 100.0,
+      "composition": 75.8,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_95fa",
+    "composite_score": 68.2,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Innovative, sleek, aspirational, and user-centric",
+      "visual_style": "Minimalistic and sophisticated with a focus on clean lines and modern aesthetics. Use dynamic imagery that showcases product usage in real-life scenarios, emphasizing both functionality and style.",
+      "conceptual_technique": "Emotionally resonant storytelling that emphasizes lifestyle integration and technological innovation, leveraging digital platforms and experiential marketing to engage tech-savvy consumers.",
+      "emotion": "Desire for cutting-edge technology and seamless lifestyle integration",
+      "typography_style": "San Francisco (Apple's proprietary typeface), elegant and modern with a balanced weight for readability",
+      "color_scheme": "Pearl white of the AirPods against a gradient of twilight blue and urban grey",
+      "headline": "AirPods Pro 3, unparalleled sound",
+      "call_to_action": "Experience innovation",
+      "ad_style": "Emotionally resonant storytelling that emphasizes lifestyle integration and technological innovation, leveraging digital platforms and experiential marketing to engage tech-savvy consumers.",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "all",
+          "income": "middle to upper-middle class",
+          "location": "global urban centers"
+        },
+        "psychographics": {
+          "lifestyle": "tech-savvy, trend-conscious, and quality-oriented",
+          "values": "innovation, convenience, and brand prestige",
+          "behavioral": "early adopters of technology, frequent travelers, and fitness enthusiasts"
+        }
+      },
+      "key_benefits": [
+        "Advanced noise cancellation",
+        "Enhanced sound quality with adaptive EQ",
+        "Seamless integration with the Apple ecosystem"
+      ],
+      "product_highlight": "The seamless integration with the Apple ecosystem, allowing users to switch effortlessly between devices and access exclusive features like spatial audio and personalized sound settings."
+    },
+    "quality_breakdown": {
+      "readability": 71.5,
+      "placement": 51.1,
+      "composition": 71.3,
+      "harmony": 100.0,
+      "copy": 65.0
+    }
+  },
+  "created_at": "2026-03-18T20:27:04.421682",
+  "metadata": {
+    "test_id": "abtest_1773845559_14cfe5",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

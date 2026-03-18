@@ -1,0 +1,108 @@
+{
+  "pair_id": "pair_abtest_1773849294_302658_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "IKEA KALLAX shelf unit",
+  "score_difference": 7.6,
+  "preferred": {
+    "variant_id": "v2_d893",
+    "composite_score": 74.5,
+    "grade": "B",
+    "creative_brief": {
+      "tone": "friendly, accessible, and functional with a touch of Scandinavian minimalism",
+      "visual_style": "Clean, airy, and modern visuals that emphasize the product's integration into different home environments; use real-life settings with diverse models and relatable scenarios",
+      "conceptual_technique": "Utilize storytelling that highlights real-life applications and versatility in different living spaces, leveraging digital platforms and social media for broader reach",
+      "emotion": "practical satisfaction, inspiration, and a sense of order",
+      "typography_style": "IKEA's signature bold, sans-serif typeface for clarity and brand consistency",
+      "color_scheme": "natural wood tones, crisp white, and IKEA blue/yellow branding",
+      "headline": "Shelf-Improvised Living",
+      "call_to_action": "Discover Your Space",
+      "ad_style": "Utilize storytelling that highlights real-life applications and versatility in different living spaces, leveraging digital platforms and social media for broader reach",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income": "middle-income",
+          "location": "urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "value convenience and functionality, enjoy DIY projects, appreciate high design at affordable prices",
+          "values": "practicality, versatility, and modern aesthetics"
+        }
+      },
+      "key_benefits": [
+        "Versatile storage solution suitable for various spaces",
+        "Affordable price point with stylish design",
+        "Easy to assemble and customize to fit individual needs"
+      ],
+      "product_highlight": "The modular design that allows customization and adaptability for various storage needs"
+    },
+    "quality_breakdown": {
+      "readability": 74.2,
+      "placement": 72.3,
+      "composition": 68.4,
+      "harmony": 100.0,
+      "copy": 70.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_b1f8",
+    "composite_score": 66.9,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Friendly, Practical, Inspirational",
+      "visual_style": "Clean, airy layouts with an emphasis on styling the unit in various home settings. Use of bright, natural lighting to highlight the product's design and functionality.",
+      "conceptual_technique": "Content-driven campaigns focusing on real-life applications and user-generated content to showcase versatility and style integration into diverse living spaces.",
+      "emotion": "Inspiration, Belonging, Satisfaction",
+      "typography_style": "IKEA's corporate sans-serif (similar to Verdana) for clarity and approachability",
+      "color_scheme": "White, light wood tones, and IKEA blue",
+      "headline": "Filling Spaces, Shaping Stories",
+      "call_to_action": "Explore KALLAX Styles",
+      "ad_style": "Content-driven campaigns focusing on real-life applications and user-generated content to showcase versatility and style integration into diverse living spaces.",
+      "target_market": {
+        "demographics": {
+          "age_range": "25-45",
+          "gender": "All",
+          "income_level": "Middle-income",
+          "lifestyle": "Urban and suburban dwellers, young professionals, and families"
+        },
+        "psychographics": {
+          "values": [
+            "Functionality",
+            "Affordability",
+            "Design-consciousness"
+          ],
+          "interests": [
+            "Home improvement",
+            "DIY projects",
+            "Organization"
+          ]
+        }
+      },
+      "key_benefits": [
+        "Versatile storage solution adaptable to various needs",
+        "Affordable pricing without compromising on style",
+        "Easy assembly and customization options"
+      ],
+      "product_highlight": "Customizability and adaptability to different storage needs and spaces."
+    },
+    "quality_breakdown": {
+      "readability": 53.9,
+      "placement": 62.6,
+      "composition": 75.9,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "created_at": "2026-03-18T21:28:54.944281",
+  "metadata": {
+    "test_id": "abtest_1773849294_302658",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "pair_id": "pair_abtest_1773849534_8a7ad1_1_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Arc'teryx Alpha SV hardshell jacket",
+  "score_difference": 15.3,
+  "preferred": {
+    "variant_id": "v1_4960",
+    "composite_score": 75.3,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "adventurous, authoritative, technical, and aspirational",
+      "visual_style": "High-contrast, nature-focused imagery capturing extreme environments, with a focus on the jacket's durability and technical details.",
+      "conceptual_technique": "Experiential and narrative-driven, showcasing real adventure scenarios and the jacket's performance.",
+      "emotion": "awe, confidence, empowerment, resilience",
+      "typography_style": "Bold, condensed sans-serif with a rugged texture treatment, emphasizing strength and durability",
+      "color_scheme": "Arctic white, deep granite grey, and fiery red",
+      "headline": "Shell of the Brave",
+      "call_to_action": "Conquer the Elements",
+      "ad_style": "Experiential and narrative-driven campaigns highlighting real adventure scenarios with user testimonials and expert endorsements",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income": "upper-middle to high income",
+          "location": "urban and suburban areas with access to outdoor activities"
+        },
+        "psychographics": {
+          "interests": [
+            "outdoor adventure",
+            "mountaineering",
+            "backcountry skiing",
+            "hiking"
+          ],
+          "values": [
+            "quality",
+            "performance",
+            "durability",
+            "sustainability"
+          ],
+          "lifestyle": "active, environmentally conscious, and brand-enthusiast"
+        }
+      },
+      "key_benefits": [
+        "Unparalleled weather protection with GORE-TEX Pro fabric",
+        "Exceptional durability for extreme conditions",
+        "Lightweight design that does not compromise on strength"
+      ],
+      "product_highlight": "The jacket\u2019s GORE-TEX Pro fabric, known for its superior waterproofing and breathability"
+    },
+    "quality_breakdown": {
+      "readability": 84.6,
+      "placement": 59.5,
+      "composition": 63.6,
+      "harmony": 100.0,
+      "copy": 82.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_6638",
+    "composite_score": 60.0,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "adventurous, authoritative, and aspirational",
+      "visual_style": "Cinematic imagery showcasing the product in rugged, awe-inspiring outdoor settings to convey a sense of adventure and resilience",
+      "conceptual_technique": "Experience-driven storytelling that highlights real-world applications and expert endorsements",
+      "emotion": "invincibility, awe, and confidence",
+      "typography_style": "Bold, rugged serif typeface with a weathered texture, emphasizing durability",
+      "color_scheme": "Arctic white, glacier blue, and slate grey",
+      "headline": "Shell Yeah!",
+      "call_to_action": "Explore Now",
+      "ad_style": "Experience-driven storytelling that highlights real-world applications and expert endorsements",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income": "upper-middle to high income",
+          "location": "urban and suburban areas with proximity to outdoor recreation"
+        },
+        "psychographics": {
+          "lifestyle": "active outdoor enthusiasts, adventure seekers",
+          "values": "quality, performance, and sustainability",
+          "interests": "mountaineering, hiking, skiing, and other outdoor activities"
+        }
+      },
+      "key_benefits": [
+        "Unmatched durability and protection in extreme weather conditions",
+        "Advanced materials and construction for superior performance",
+        "Lightweight design without compromising on functionality"
+      ],
+      "product_highlight": "GORE-TEX Pro technology for unbeatable waterproofing and breathability"
+    },
+    "quality_breakdown": {
+      "readability": 53.5,
+      "placement": 37.1,
+      "composition": 62.5,
+      "harmony": 100.0,
+      "copy": 81.0
+    }
+  },
+  "created_at": "2026-03-18T21:34:02.834213",
+  "metadata": {
+    "test_id": "abtest_1773849534_8a7ad1",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

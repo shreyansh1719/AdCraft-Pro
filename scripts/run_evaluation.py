@@ -60,6 +60,17 @@ EVAL_PRODUCTS = [
     {"prompt": "Dyson Airwrap hair styling tool", "industry": "Beauty", "tone": "Premium"},
     {"prompt": "Levi's 501 Original jeans", "industry": "Fashion", "tone": "Raw"},
     {"prompt": "Nespresso Vertuo coffee machine", "industry": "Food & Beverage", "tone": "Premium"},
+    # New for v3 — expanded to 20 products for stronger statistical power
+    {"prompt": "Adidas Samba OG retro sneakers", "industry": "Fashion", "tone": "Retro"},
+    {"prompt": "Porsche 911 GT3 RS sports car", "industry": "Automotive", "tone": "Visceral"},
+    {"prompt": "Coca-Cola Original classic beverage", "industry": "Food & Beverage", "tone": "Nostalgic"},
+    {"prompt": "Samsung Galaxy S25 Ultra smartphone", "industry": "Technology", "tone": "Bold"},
+    {"prompt": "Patagonia Nano Puff outdoor jacket", "industry": "Outdoor", "tone": "Rugged"},
+    {"prompt": "Glossier Cloud Paint blush", "industry": "Beauty", "tone": "Effortless"},
+    {"prompt": "Heineken Silver premium lager", "industry": "Food & Beverage", "tone": "Cosmopolitan"},
+    {"prompt": "IKEA KALLAX shelf unit", "industry": "Furniture", "tone": "Clever"},
+    {"prompt": "Arc'teryx Alpha SV hardshell jacket", "industry": "Outdoor", "tone": "Extreme"},
+    {"prompt": "Omega Speedmaster Moonwatch", "industry": "Luxury", "tone": "Legendary"},
 ]
 
 METRICS = ["readability", "placement", "composition", "harmony", "copy"]

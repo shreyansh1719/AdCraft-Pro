@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773848520_ed051e_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Patagonia Nano Puff outdoor jacket",
+  "score_difference": 6.7,
+  "preferred": {
+    "variant_id": "v1_cebc",
+    "composite_score": 67.7,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Authentic, Responsible, Adventurous, Eco-conscious",
+      "visual_style": "Natural landscapes and adventure settings, high-quality imagery showcasing the jacket in action, emphasis on real customers and ambassadors using the product in diverse outdoor environments.",
+      "conceptual_technique": "Storytelling-driven campaigns highlighting real-world use and environmental impact, leveraging social media and digital platforms for broad reach and engagement.",
+      "emotion": "Inspiration, Trust, Empowerment",
+      "typography_style": "Bold yet organic serif, echoing nature and durability",
+      "color_scheme": "Earthy greens, deep blues, and Patagonia's signature navy",
+      "headline": "Warmth Without the Footprint",
+      "call_to_action": "Explore Responsibly",
+      "ad_style": "Storytelling-driven campaigns highlighting real-world use and environmental impact, leveraging social media and digital platforms for broad reach and engagement.",
+      "target_market": {
+        "demographics": {
+          "age_range": "25-45",
+          "gender": "Unisex",
+          "income_level": "Middle to Upper-middle class",
+          "geographical_distribution": "Urban and Suburban areas in North America and Europe"
+        },
+        "psychographics": {
+          "lifestyle": "Active, Outdoor Enthusiasts, Environmentally Conscious",
+          "values": "Sustainability, Quality, Innovation",
+          "interests": "Hiking, Climbing, Traveling, Environmental Activism"
+        }
+      },
+      "key_benefits": [
+        "Lightweight and Packable Design",
+        "Sustainably Made with Recycled Materials",
+        "Exceptional Warmth-to-Weight Ratio"
+      ],
+      "product_highlight": "The jacket's insulation made from 100% recycled polyester, emphasizing the brand's commitment to sustainability and environmental responsibility."
+    },
+    "quality_breakdown": {
+      "readability": 87.7,
+      "placement": 25.0,
+      "composition": 73.1,
+      "harmony": 100.0,
+      "copy": 70.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_3abd",
+    "composite_score": 61.0,
+    "grade": "C+",
+    "creative_brief": {
+      "tone": "Authentic, Eco-conscious, Adventurous, Functional",
+      "visual_style": "Candid, immersive photography capturing the jacket in natural environments, emphasizing the connection between the user and nature. Use of dynamic, motion-focused imagery to convey versatility and endurance.",
+      "conceptual_technique": "Emphasize storytelling through real-life adventure experiences, leveraging user-generated content and influencer partnerships to highlight authentic product use and commitment to sustainability.",
+      "emotion": "Inspiration, Trust, Serenity",
+      "typography_style": "Bold, condensed sans-serif with a rugged, outdoorsy feel, mirroring the durability of the product",
+      "color_scheme": "earthy deep greens, stormy grays, and crisp sky blues reflecting Patagonia's natural palette",
+      "headline": "INSULATION WITH A CONSCIENCE",
+      "call_to_action": "Explore Responsibly",
+      "ad_style": "Emphasize storytelling through real-life adventure experiences, leveraging user-generated content and influencer partnerships to highlight authentic product use and commitment to sustainability.",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "All",
+          "income": "Middle to upper-middle class",
+          "location": "Urban and suburban areas with access to outdoor activities"
+        },
+        "psychographics": {
+          "lifestyle": "Active, environmentally conscious, value-driven",
+          "interests": "Hiking, climbing, outdoor adventures, sustainable living",
+          "values": "Quality, sustainability, social responsibility"
+        }
+      },
+      "key_benefits": [
+        "Lightweight and compressible for easy packing",
+        "Highly efficient insulation for warmth",
+        "Eco-friendly materials and production processes"
+      ],
+      "product_highlight": "The use of recycled materials in the insulation and shell, underscoring Patagonia's commitment to environmental sustainability."
+    },
+    "quality_breakdown": {
+      "readability": 61.3,
+      "placement": 31.0,
+      "composition": 69.5,
+      "harmony": 100.0,
+      "copy": 73.0
+    }
+  },
+  "created_at": "2026-03-18T21:16:24.713896",
+  "metadata": {
+    "test_id": "abtest_1773848520_ed051e",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

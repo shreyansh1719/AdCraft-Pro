@@ -1,0 +1,382 @@
+{
+  "run_at": "2026-03-18T21:39:06.169340",
+  "dry_run": false,
+  "total_products": 20,
+  "succeeded": 20,
+  "failed": 0,
+  "total_pairs_collected": 34,
+  "avg_score_gap": 13.2,
+  "summaries": [
+    {
+      "product": "Rolex Submariner luxury dive watch",
+      "brand": "Rolex",
+      "industry": "luxury",
+      "num_variants": 3,
+      "scores": [
+        70.4,
+        68.4,
+        60.6
+      ],
+      "winner_score": 70.4,
+      "winner_headline": "Time Doesn't Just Pass",
+      "avg_score": 66.5,
+      "pairs_collected": 2,
+      "gaps": [
+        9.800000000000004,
+        7.800000000000004
+      ]
+    },
+    {
+      "product": "Nike Air Jordan 1 streetwear sneakers",
+      "brand": "Nike",
+      "industry": "sportswear",
+      "num_variants": 3,
+      "scores": [
+        81.4,
+        78.7,
+        70.5
+      ],
+      "winner_score": 81.4,
+      "winner_headline": "Step Into Your Legacy",
+      "avg_score": 76.9,
+      "pairs_collected": 2,
+      "gaps": [
+        10.900000000000006,
+        8.200000000000003
+      ]
+    },
+    {
+      "product": "Apple AirPods Pro 3 wireless earbuds",
+      "brand": "Apple",
+      "industry": "technology",
+      "num_variants": 3,
+      "scores": [
+        85.3,
+        68.2,
+        52.3
+      ],
+      "winner_score": 85.3,
+      "winner_headline": "Silence, Sound, and Everything in Between.",
+      "avg_score": 68.6,
+      "pairs_collected": 3,
+      "gaps": [
+        17.099999999999994,
+        33.0,
+        15.900000000000006
+      ]
+    },
+    {
+      "product": "Oatly oat milk dairy alternative",
+      "brand": "Oatly",
+      "industry": "food_beverage",
+      "num_variants": 3,
+      "scores": [
+        84.2,
+        68.8,
+        68.6
+      ],
+      "winner_score": 84.2,
+      "winner_headline": "JUST ADD OATS.",
+      "avg_score": 73.9,
+      "pairs_collected": 2,
+      "gaps": [
+        15.400000000000006,
+        15.600000000000009
+      ]
+    },
+    {
+      "product": "Tesla Model S Plaid electric sedan",
+      "brand": "Tesla",
+      "industry": "automotive",
+      "num_variants": 3,
+      "scores": [
+        76.2,
+        71.7,
+        69.5
+      ],
+      "winner_score": 76.2,
+      "winner_headline": "Plaid Mode: Break the Sound Barrier of Style.",
+      "avg_score": 72.5,
+      "pairs_collected": 1,
+      "gaps": [
+        6.700000000000003
+      ]
+    },
+    {
+      "product": "Chanel No. 5 eau de parfum",
+      "brand": "Chanel",
+      "industry": "fragrance",
+      "num_variants": 3,
+      "scores": [
+        69.5,
+        64.5,
+        56.0
+      ],
+      "winner_score": 69.5,
+      "winner_headline": "The Fifth Element of Elegance",
+      "avg_score": 63.3,
+      "pairs_collected": 3,
+      "gaps": [
+        5.0,
+        13.5,
+        8.5
+      ]
+    },
+    {
+      "product": "Sony PlayStation 5 Pro console",
+      "brand": "Sony",
+      "industry": "gaming",
+      "num_variants": 3,
+      "scores": [
+        80.0,
+        63.9,
+        59.2
+      ],
+      "winner_score": 80.0,
+      "winner_headline": "Level Up Your Reality",
+      "avg_score": 67.7,
+      "pairs_collected": 2,
+      "gaps": [
+        16.1,
+        20.799999999999997
+      ]
+    },
+    {
+      "product": "Dyson Airwrap multi-styler",
+      "brand": "Dyson",
+      "industry": "beauty_tech",
+      "num_variants": 3,
+      "scores": [
+        68.3,
+        66.7,
+        66.3
+      ],
+      "winner_score": 68.3,
+      "winner_headline": "Style Takes Flight",
+      "avg_score": 67.1,
+      "pairs_collected": 0,
+      "gaps": []
+    },
+    {
+      "product": "Levi's 501 original fit jeans",
+      "brand": "Levi's",
+      "industry": "fashion",
+      "num_variants": 3,
+      "scores": [
+        83.2,
+        67.8,
+        59.4
+      ],
+      "winner_score": 83.2,
+      "winner_headline": "501 Days of You",
+      "avg_score": 70.1,
+      "pairs_collected": 3,
+      "gaps": [
+        15.400000000000006,
+        23.800000000000004,
+        8.399999999999999
+      ]
+    },
+    {
+      "product": "Nespresso Vertuo Pop coffee machine",
+      "brand": "Nespresso",
+      "industry": "appliances",
+      "num_variants": 3,
+      "scores": [
+        77.9,
+        76.5,
+        73.1
+      ],
+      "winner_score": 77.9,
+      "winner_headline": "Pop, Pour, Perfection.",
+      "avg_score": 75.8,
+      "pairs_collected": 0,
+      "gaps": []
+    },
+    {
+      "product": "Adidas Samba OG retro sneakers",
+      "brand": "Adidas",
+      "industry": "sportswear",
+      "num_variants": 3,
+      "scores": [
+        69.2,
+        67.4,
+        61.1
+      ],
+      "winner_score": 69.2,
+      "winner_headline": "Sole Stories: Urban Legends in the Making",
+      "avg_score": 65.9,
+      "pairs_collected": 2,
+      "gaps": [
+        8.100000000000001,
+        6.300000000000004
+      ]
+    },
+    {
+      "product": "Porsche 911 GT3 RS sports car",
+      "brand": "Porsche",
+      "industry": "automotive",
+      "num_variants": 3,
+      "scores": [
+        68.6,
+        66.5,
+        66.4
+      ],
+      "winner_score": 68.6,
+      "winner_headline": "Unleash the Symphony of Speed.",
+      "avg_score": 67.2,
+      "pairs_collected": 0,
+      "gaps": []
+    },
+    {
+      "product": "Coca-Cola Original classic beverage",
+      "brand": "Coca-Cola",
+      "industry": "food_beverage",
+      "num_variants": 3,
+      "scores": [
+        76.1,
+        65.2,
+        64.9
+      ],
+      "winner_score": 76.1,
+      "winner_headline": "Pop Open Happiness",
+      "avg_score": 68.7,
+      "pairs_collected": 2,
+      "gaps": [
+        10.899999999999991,
+        11.199999999999989
+      ]
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra smartphone",
+      "brand": "Samsung",
+      "industry": "technology",
+      "num_variants": 3,
+      "scores": [
+        78.1,
+        67.4,
+        65.7
+      ],
+      "winner_score": 78.1,
+      "winner_headline": "Capture Beyond Limits",
+      "avg_score": 70.4,
+      "pairs_collected": 2,
+      "gaps": [
+        10.699999999999989,
+        12.399999999999991
+      ]
+    },
+    {
+      "product": "Patagonia Nano Puff outdoor jacket",
+      "brand": "Patagonia",
+      "industry": "outdoor",
+      "num_variants": 3,
+      "scores": [
+        67.7,
+        67.3,
+        61.0
+      ],
+      "winner_score": 67.7,
+      "winner_headline": "Warmth Without the Footprint",
+      "avg_score": 65.3,
+      "pairs_collected": 2,
+      "gaps": [
+        6.700000000000003,
+        6.299999999999997
+      ]
+    },
+    {
+      "product": "Glossier Cloud Paint blush",
+      "brand": "Glossier",
+      "industry": "beauty",
+      "num_variants": 3,
+      "scores": [
+        73.1,
+        59.7,
+        55.9
+      ],
+      "winner_score": 73.1,
+      "winner_headline": "Swipe the Shade",
+      "avg_score": 62.9,
+      "pairs_collected": 2,
+      "gaps": [
+        13.399999999999991,
+        17.199999999999996
+      ]
+    },
+    {
+      "product": "Heineken Silver premium lager",
+      "brand": "Heineken",
+      "industry": "food_beverage",
+      "num_variants": 3,
+      "scores": [
+        76.2,
+        76.0,
+        72.2
+      ],
+      "winner_score": 76.2,
+      "winner_headline": "Sip Happens. Make It Silver.",
+      "avg_score": 74.8,
+      "pairs_collected": 0,
+      "gaps": []
+    },
+    {
+      "product": "IKEA KALLAX shelf unit",
+      "brand": "IKEA",
+      "industry": "furniture",
+      "num_variants": 3,
+      "scores": [
+        74.5,
+        71.6,
+        66.9
+      ],
+      "winner_score": 74.5,
+      "winner_headline": "Shelf-Improvised Living",
+      "avg_score": 71.0,
+      "pairs_collected": 1,
+      "gaps": [
+        7.599999999999994
+      ]
+    },
+    {
+      "product": "Arc'teryx Alpha SV hardshell jacket",
+      "brand": "Arc'teryx",
+      "industry": "outdoor",
+      "num_variants": 3,
+      "scores": [
+        76.9,
+        75.3,
+        60.0
+      ],
+      "winner_score": 76.9,
+      "winner_headline": "Weather? What Weather?",
+      "avg_score": 70.7,
+      "pairs_collected": 2,
+      "gaps": [
+        16.900000000000006,
+        15.299999999999997
+      ]
+    },
+    {
+      "product": "Omega Speedmaster Moonwatch",
+      "brand": "Omega",
+      "industry": "luxury",
+      "num_variants": 3,
+      "scores": [
+        84.3,
+        75.5,
+        57.1
+      ],
+      "winner_score": 84.3,
+      "winner_headline": "TIME FLIES WHEREVER YOU GO",
+      "avg_score": 72.3,
+      "pairs_collected": 3,
+      "gaps": [
+        8.799999999999997,
+        27.199999999999996,
+        18.4
+      ]
+    }
+  ],
+  "failures": []
+}

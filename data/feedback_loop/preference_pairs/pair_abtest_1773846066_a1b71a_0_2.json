@@ -1,0 +1,101 @@
+{
+  "pair_id": "pair_abtest_1773846066_a1b71a_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Tesla Model S Plaid electric sedan",
+  "score_difference": 6.7,
+  "preferred": {
+    "variant_id": "v1_28f8",
+    "composite_score": 76.2,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "Innovative, Futuristic, Sophisticated, Bold",
+      "visual_style": "A sleek, modern aesthetic with clean lines and a high-tech feel, utilizing dynamic imagery and videography to convey speed and cutting-edge technology.",
+      "conceptual_technique": "Experiential and immersive advertising with a focus on digital platforms and influencer partnerships to demonstrate tech innovation and lifestyle integration.",
+      "emotion": "Awe, Excitement, Desire for Innovation",
+      "typography_style": "Bold, futuristic sans-serif with a metallic finish to emphasize modernity and speed",
+      "color_scheme": "Tesla's signature deep red, sleek black, and electric silver",
+      "headline": "Plaid Mode: Break the Sound Barrier of Style.",
+      "call_to_action": "Experience the Future Today",
+      "ad_style": "Experiential and immersive advertising with a focus on digital platforms and influencer partnerships to demonstrate tech innovation and lifestyle integration.",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "All",
+          "income": "High-income earners",
+          "geography": "Urban and suburban areas in technologically-advanced regions"
+        },
+        "psychographics": {
+          "lifestyle": "Tech-savvy, Environmentally conscious, Early adopters",
+          "values": "Innovation, Sustainability, Status, Performance"
+        }
+      },
+      "key_benefits": [
+        "Unmatched acceleration with 0-60 mph in under 2 seconds",
+        "Extensive range of over 390 miles per charge",
+        "Advanced Autopilot and Full Self-Driving capabilities"
+      ],
+      "product_highlight": "The Tesla Model S Plaid's groundbreaking acceleration and performance capabilities."
+    },
+    "quality_breakdown": {
+      "readability": 93.3,
+      "placement": 75.9,
+      "composition": 43.5,
+      "harmony": 100.0,
+      "copy": 70.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_e25f",
+    "composite_score": 69.5,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Futuristic, Innovative, Sophisticated, and Aspirational",
+      "visual_style": "Utilize sleek, modern imagery with dynamic angles to convey speed and sophistication. Emphasize minimalism and advanced technology, integrating elements of nature to highlight sustainability.",
+      "conceptual_technique": "High-impact, visually striking digital and video campaigns that emphasize performance and innovation, leveraging both traditional and social media platforms for maximum reach.",
+      "emotion": "Awe, Desire, Inspiration",
+      "typography_style": "Futuristic sans-serif with clean lines, slightly condensed for a sleek appearance",
+      "color_scheme": "Tesla's signature deep red, midnight black, and electric silver",
+      "headline": "Beyond the Speed of Sound",
+      "call_to_action": "Experience Now",
+      "ad_style": "High-impact, visually striking digital and video campaigns that emphasize performance and innovation, leveraging both traditional and social media platforms for maximum reach.",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "All",
+          "income": "High income bracket, $100,000+",
+          "location": "Urban and suburban areas, primarily in tech-savvy regions"
+        },
+        "psychographics": {
+          "lifestyle": "Tech enthusiasts, environmentally conscious, luxury seekers",
+          "values": "Innovation, sustainability, exclusivity",
+          "interests": "Cutting-edge technology, automotive performance, ecological impact"
+        }
+      },
+      "key_benefits": [
+        "Unmatched performance with 0-60 mph in under 2 seconds",
+        "Cutting-edge technology with advanced autopilot features",
+        "Sustainable luxury with zero emissions"
+      ],
+      "product_highlight": "Unparalleled acceleration and performance capabilities, making it the fastest production sedan in the world."
+    },
+    "quality_breakdown": {
+      "readability": 62.4,
+      "placement": 66.4,
+      "composition": 71.6,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "created_at": "2026-03-18T20:35:41.195455",
+  "metadata": {
+    "test_id": "abtest_1773846066_a1b71a",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

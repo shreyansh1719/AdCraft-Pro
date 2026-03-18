@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773848784_0766e5_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Glossier Cloud Paint blush",
+  "score_difference": 13.4,
+  "preferred": {
+    "variant_id": "v1_fc58",
+    "composite_score": 73.1,
+    "grade": "B",
+    "creative_brief": {
+      "tone": "friendly, approachable, and modern with a focus on simplicity and authenticity",
+      "visual_style": "Clean and minimalistic design with an emphasis on real-life application and diverse model representation. Use of naturalistic imagery and close-ups to showcase the product's texture and finish.",
+      "conceptual_technique": "Digital-first approach leveraging social media platforms with user-generated content, influencer partnerships, and tutorial-based storytelling",
+      "emotion": "confidence, inclusivity, and playfulness",
+      "typography_style": "Simple, rounded sans-serif font (similar to Glossier's signature style), understated to let the product stand out",
+      "color_scheme": "soft pinks, muted reds, and fresh coral shades reflecting the blush colors against a clean white backdrop",
+      "headline": "Swipe the Shade",
+      "call_to_action": "Shop Now",
+      "ad_style": "Digital-first approach leveraging social media platforms with user-generated content, influencer partnerships, and tutorial-based storytelling",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "primarily female",
+          "income": "middle to upper-middle class",
+          "location": "urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "socially active, trend-conscious, values self-expression",
+          "values": "authenticity, quality, and convenience",
+          "interests": "beauty, fashion, social media, and wellness"
+        }
+      },
+      "key_benefits": [
+        "Seamless application with a lightweight, gel-cream texture",
+        "Buildable color for customizable intensity",
+        "Long-lasting formula that enhances natural skin tone"
+      ],
+      "product_highlight": "The unique gel-cream formula offering seamless, buildable coverage that enhances the user's natural glow."
+    },
+    "quality_breakdown": {
+      "readability": 54.9,
+      "placement": 79.2,
+      "composition": 72.8,
+      "harmony": 100.0,
+      "copy": 82.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_5253",
+    "composite_score": 59.7,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "approachable, authentic, playful, inclusive",
+      "visual_style": "Clean, minimalistic aesthetics with a focus on real-life application shots and diverse models. Use of soft lighting to highlight the product's texture and finish.",
+      "conceptual_technique": "Digital-first approach focusing on social media platforms like Instagram and TikTok, leveraging influencer partnerships and user-generated content",
+      "emotion": "confidence, joy, creativity",
+      "typography_style": "Helvetica Neue, modern and clean with a touch of casual brush script for authenticity",
+      "color_scheme": "soft pinks, corals, and muted greens against a pristine white background",
+      "headline": "Blush Rush: Swipe Right on Cloud Paint",
+      "call_to_action": "Find Your Shade",
+      "ad_style": "Digital-first approach focusing on social media platforms like Instagram and TikTok, leveraging influencer partnerships and user-generated content",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "primarily female",
+          "income": "middle to upper-middle class",
+          "location": "urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "modern, socially conscious, digital-savvy",
+          "values": "simplicity, authenticity, self-expression",
+          "interests": "beauty, fashion, wellness, social media"
+        }
+      },
+      "key_benefits": [
+        "Sheer, buildable color for customizable application",
+        "Lightweight, gel-cream formula that blends seamlessly",
+        "Versatile for all skin types and tones"
+      ],
+      "product_highlight": "The unique gel-cream formula that allows for a seamless, natural finish on all skin types"
+    },
+    "quality_breakdown": {
+      "readability": 36.4,
+      "placement": 58.8,
+      "composition": 64.8,
+      "harmony": 100.0,
+      "copy": 74.0
+    }
+  },
+  "created_at": "2026-03-18T21:20:34.826818",
+  "metadata": {
+    "test_id": "abtest_1773848784_0766e5",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pair_id": "pair_abtest_1773845824_1fdba8_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Oatly oat milk dairy alternative",
+  "score_difference": 15.6,
+  "preferred": {
+    "variant_id": "v2_6a6f",
+    "composite_score": 84.2,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "Playful, Quirky, Authentic, and Friendly",
+      "visual_style": "Minimalist design with bold, eye-catching graphics and playful illustrations that enhance the eco-friendly, innovative, and approachable brand ethos.",
+      "conceptual_technique": "Social media-centric campaigns focusing on engaging content and user-generated storytelling, combined with influencer partnerships to leverage credibility and reach.",
+      "emotion": "Joy, Trust, Curiosity, and Sustainability",
+      "typography_style": "Bold, chunky hand-drawn fonts that convey a casual and approachable personality.",
+      "color_scheme": "Oatmeal beige, earthy green, and creamy white to reflect natural and organic qualities.",
+      "headline": "JUST ADD OATS.",
+      "call_to_action": "Explore Recipes",
+      "ad_style": "Social media-centric campaigns focusing on engaging content and user-generated storytelling, combined with influencer partnerships to leverage credibility and reach.",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "All genders",
+          "income": "Middle to Upper-middle class",
+          "location": "Urban and Suburban Areas"
+        },
+        "psychographics": {
+          "lifestyle": "Health-conscious, environmentally aware, trendsetters",
+          "values": "Sustainability, animal welfare, and innovation",
+          "behavior": "Early adopters of plant-based diets, frequent online shoppers"
+        }
+      },
+      "key_benefits": [
+        "Sustainably sourced and environmentally friendly",
+        "Rich, creamy texture that closely mimics dairy milk",
+        "High in nutritional value with added vitamins",
+        "Versatile use in cooking and beverages",
+        "Widely recognized and trusted brand in plant-based category"
+      ],
+      "product_highlight": "Highlight the product's environmental impact, emphasizing OATLY's carbon footprint reduction and sustainable sourcing practices."
+    },
+    "quality_breakdown": {
+      "readability": 86.2,
+      "placement": 99.7,
+      "composition": 64.2,
+      "harmony": 90.0,
+      "copy": 77.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_2027",
+    "composite_score": 68.6,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Playful, Bold, and Informative",
+      "visual_style": "Minimalistic and modern with quirky graphic elements that reflect the brand's playful tone, using high-quality imagery to showcase product in a lifestyle context",
+      "conceptual_technique": "Content-driven storytelling with a focus on sustainability and health benefits, leveraging digital platforms for maximum engagement",
+      "emotion": "Joy, Curiosity, and Health-consciousness",
+      "typography_style": "Bold sans-serif with playful handwritten accents for a casual, approachable feel",
+      "color_scheme": "Oatley's signature creamy white with earthy oat brown and vibrant green accents",
+      "headline": "OAT. MILK. WHAT ELSE?",
+      "call_to_action": "Explore Recipes",
+      "ad_style": "Content-driven storytelling with a focus on sustainability and health benefits, leveraging digital platforms for maximum engagement",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "All genders",
+          "income": "Middle to upper-middle class",
+          "geographic": "Urban and suburban areas, primarily in health-conscious regions"
+        },
+        "psychographics": {
+          "lifestyle": "Health-conscious, environmentally aware, socially responsible",
+          "values": "Sustainability, transparency, ethical consumption"
+        }
+      },
+      "key_benefits": [
+        "100% plant-based and vegan-friendly",
+        "Sustainable and environmentally friendly production",
+        "Rich, creamy taste similar to traditional milk"
+      ],
+      "product_highlight": "Environmentally friendly production process and its impact on reducing carbon footprint"
+    },
+    "quality_breakdown": {
+      "readability": 58.1,
+      "placement": 52.6,
+      "composition": 80.1,
+      "harmony": 100.0,
+      "copy": 80.0
+    }
+  },
+  "created_at": "2026-03-18T20:31:06.204351",
+  "metadata": {
+    "test_id": "abtest_1773845824_1fdba8",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

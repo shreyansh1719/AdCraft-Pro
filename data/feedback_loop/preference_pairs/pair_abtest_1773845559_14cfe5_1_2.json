@@ -1,0 +1,104 @@
+{
+  "pair_id": "pair_abtest_1773845559_14cfe5_1_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Apple AirPods Pro 3 wireless earbuds",
+  "score_difference": 15.9,
+  "preferred": {
+    "variant_id": "v1_95fa",
+    "composite_score": 68.2,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Innovative, sleek, aspirational, and user-centric",
+      "visual_style": "Minimalistic and sophisticated with a focus on clean lines and modern aesthetics. Use dynamic imagery that showcases product usage in real-life scenarios, emphasizing both functionality and style.",
+      "conceptual_technique": "Emotionally resonant storytelling that emphasizes lifestyle integration and technological innovation, leveraging digital platforms and experiential marketing to engage tech-savvy consumers.",
+      "emotion": "Desire for cutting-edge technology and seamless lifestyle integration",
+      "typography_style": "San Francisco (Apple's proprietary typeface), elegant and modern with a balanced weight for readability",
+      "color_scheme": "Pearl white of the AirPods against a gradient of twilight blue and urban grey",
+      "headline": "AirPods Pro 3, unparalleled sound",
+      "call_to_action": "Experience innovation",
+      "ad_style": "Emotionally resonant storytelling that emphasizes lifestyle integration and technological innovation, leveraging digital platforms and experiential marketing to engage tech-savvy consumers.",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "all",
+          "income": "middle to upper-middle class",
+          "location": "global urban centers"
+        },
+        "psychographics": {
+          "lifestyle": "tech-savvy, trend-conscious, and quality-oriented",
+          "values": "innovation, convenience, and brand prestige",
+          "behavioral": "early adopters of technology, frequent travelers, and fitness enthusiasts"
+        }
+      },
+      "key_benefits": [
+        "Advanced noise cancellation",
+        "Enhanced sound quality with adaptive EQ",
+        "Seamless integration with the Apple ecosystem"
+      ],
+      "product_highlight": "The seamless integration with the Apple ecosystem, allowing users to switch effortlessly between devices and access exclusive features like spatial audio and personalized sound settings."
+    },
+    "quality_breakdown": {
+      "readability": 71.5,
+      "placement": 51.1,
+      "composition": 71.3,
+      "harmony": 100.0,
+      "copy": 65.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_8a33",
+    "composite_score": 52.3,
+    "grade": "C-",
+    "creative_brief": {
+      "tone": "sleek, innovative, aspirational, and tech-savvy",
+      "visual_style": "Minimalistic and clean design with a focus on lifestyle imagery that showcases the product in dynamic and everyday scenarios, emphasizing the seamless integration with modern life",
+      "conceptual_technique": "Immersive storytelling through digital and social media platforms, highlighting real-life use cases and testimonials from influencers",
+      "emotion": "freedom, tranquility, empowerment",
+      "typography_style": "San Francisco typeface, sleek and modern with a slight emphasis on elegance",
+      "color_scheme": "Apple's signature clean white and soft silver with subtle gradients of dawn blue",
+      "headline": "Sound Unseen.",
+      "call_to_action": "Get AirPods Pro 3",
+      "ad_style": "Immersive storytelling through digital and social media platforms, highlighting real-life use cases and testimonials from influencers",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "all genders",
+          "income": "middle to high income",
+          "education": "college educated"
+        },
+        "psychographics": {
+          "lifestyle": "tech enthusiasts, trendsetters, and audiophiles",
+          "values": "innovation, quality, and brand prestige",
+          "behaviors": "early adopters, frequent travelers, and fitness enthusiasts"
+        }
+      },
+      "key_benefits": [
+        "Superior sound quality with advanced noise cancellation",
+        "Seamless integration with Apple ecosystem",
+        "Enhanced comfort and customizable fit",
+        "Improved battery life for extended use",
+        "Water and sweat resistance for active lifestyles"
+      ],
+      "product_highlight": "Advanced noise cancellation technology that elevates listening experiences in any environment"
+    },
+    "quality_breakdown": {
+      "readability": 53.1,
+      "placement": 2.8,
+      "composition": 69.8,
+      "harmony": 100.0,
+      "copy": 78.0
+    }
+  },
+  "created_at": "2026-03-18T20:27:04.424136",
+  "metadata": {
+    "test_id": "abtest_1773845559_14cfe5",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "pair_id": "pair_abtest_1773845278_988528_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Nike Air Jordan 1 streetwear sneakers",
+  "score_difference": 10.9,
+  "preferred": {
+    "variant_id": "v3_22a3",
+    "composite_score": 81.4,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "Bold, Inspirational, Authentic, Urban",
+      "visual_style": "Edgy and dynamic visuals that capture the essence of street culture, with high-contrast photography highlighting the sneakers in real-life urban environments",
+      "conceptual_technique": "Influencer collaborations and social media storytelling, focusing on user-generated content and community engagement",
+      "emotion": "Confidence, Belonging, Empowerment",
+      "typography_style": "Bold, sporty sans-serif with dynamic slanting to convey motion",
+      "color_scheme": "Nike's classic black, white, and varsity red with pops of electric blue and graffiti green",
+      "headline": "Step Into Your Legacy",
+      "call_to_action": "Join the Movement",
+      "ad_style": "Influencer collaborations and social media storytelling, focusing on user-generated content and community engagement",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "All genders",
+          "income": "Middle to upper-middle class",
+          "geography": "Urban and suburban areas, globally"
+        },
+        "psychographics": {
+          "lifestyle": "Trend-conscious, culturally savvy, socially connected",
+          "values": "Individuality, self-expression, athleticism",
+          "interests": "Sports, fashion, music, street culture"
+        }
+      },
+      "key_benefits": [
+        "Iconic design that signifies cultural and fashion status",
+        "High-quality materials offering durability and comfort",
+        "Versatility suitable for both athletic and casual wear"
+      ],
+      "product_highlight": "The iconic silhouette and cultural legacy of the Air Jordan 1, emphasizing its role as both a fashion statement and a piece of basketball history"
+    },
+    "quality_breakdown": {
+      "readability": 84.9,
+      "placement": 71.2,
+      "composition": 84.2,
+      "harmony": 100.0,
+      "copy": 75.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_9517",
+    "composite_score": 70.5,
+    "grade": "B",
+    "creative_brief": {
+      "tone": "Bold, Energetic, Authentic, Aspirational",
+      "visual_style": "Images should capture urban landscapes, dynamic movements, and authentic street culture. Focus on lifestyle imagery that blends sport and fashion, with high-contrast and bold compositions.",
+      "conceptual_technique": "Integrated digital-first campaigns with storytelling that highlight cultural relevance and exclusivity, using social media influencers and partnerships with cultural icons.",
+      "emotion": "Empowerment, Belonging, Confidence",
+      "typography_style": "Bold, blocky sans-serif with a street-art edge, often layered with textured backgrounds.",
+      "color_scheme": "Nike's classic red, black, and white with pops of urban graffiti colors like electric blue and neon green.",
+      "headline": "Step Into the Culture",
+      "call_to_action": "Join the Movement",
+      "ad_style": "Integrated digital-first campaigns with storytelling that highlight cultural relevance and exclusivity, using social media influencers and partnerships with cultural icons.",
+      "target_market": {
+        "demographics": {
+          "age": "16-35",
+          "gender": "Predominantly male, but increasingly gender-neutral",
+          "location": "Urban and suburban areas globally",
+          "income_level": "Middle to upper-middle class"
+        },
+        "psychographics": {
+          "lifestyle": "Trendsetters, sneaker enthusiasts, sports fans",
+          "values": "Individuality, self-expression, cultural relevance",
+          "interests": "Basketball, street culture, fashion"
+        }
+      },
+      "key_benefits": [
+        "Iconic design with cultural heritage",
+        "High-performance comfort and support",
+        "Versatile style for both athletic and casual wear",
+        "Limited edition releases enhance exclusivity",
+        "Strong brand association with sports legends"
+      ],
+      "product_highlight": "The iconic silhouette and cultural legacy of the Air Jordan 1, emphasizing its status as a symbol of self-expression and identity in streetwear culture."
+    },
+    "quality_breakdown": {
+      "readability": 71.7,
+      "placement": 57.5,
+      "composition": 66.7,
+      "harmony": 100.0,
+      "copy": 75.0
+    }
+  },
+  "created_at": "2026-03-18T20:22:39.628812",
+  "metadata": {
+    "test_id": "abtest_1773845278_988528",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

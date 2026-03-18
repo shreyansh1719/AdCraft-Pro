@@ -1,0 +1,106 @@
+{
+  "pair_id": "pair_abtest_1773847083_dd244b_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Levi's 501 original fit jeans",
+  "score_difference": 15.4,
+  "preferred": {
+    "variant_id": "v1_b316",
+    "composite_score": 83.2,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "Authentic, Timeless, Inclusive, and Confident",
+      "visual_style": "Emphasize classic and vintage aesthetics with a modern twist. Use natural settings and candid photography to convey authenticity. Highlight the product in everyday scenarios to showcase versatility.",
+      "conceptual_technique": "Lifestyle-oriented storytelling with a focus on authenticity and personal expression. Utilize user-generated content and influencer partnerships to highlight real-life experiences.",
+      "emotion": "Nostalgia, Confidence, Belonging",
+      "typography_style": "Classic serif with a vintage touch, reminiscent of retro advertising",
+      "color_scheme": "Denim indigo, retro red, and muted earth tones",
+      "headline": "501 Days of You",
+      "call_to_action": "Join the 501 Movement",
+      "ad_style": "Lifestyle-oriented storytelling with a focus on authenticity and personal expression. Utilize user-generated content and influencer partnerships to highlight real-life experiences.",
+      "target_market": {
+        "demographics": {
+          "age_range": "18-35",
+          "gender": "All genders",
+          "income_level": "Middle to upper-middle class",
+          "geography": "Urban and suburban areas globally"
+        },
+        "psychographics": {
+          "lifestyle": "Casual and style-conscious individuals who value quality and heritage",
+          "values": "Authenticity, sustainability, and social responsibility",
+          "behavior": "Brand-loyal consumers who seek versatile, well-crafted wardrobe staples"
+        }
+      },
+      "key_benefits": [
+        "Timeless design that never goes out of style",
+        "High-quality craftsmanship ensuring durability and longevity",
+        "Versatile fit suitable for various body types and fashion styles",
+        "Rich heritage and cultural significance as a fashion icon",
+        "Commitment to sustainable manufacturing practices"
+      ],
+      "product_highlight": "The iconic straight-leg fit that has remained unchanged for generations, offering a universally flattering silhouette for all body types."
+    },
+    "quality_breakdown": {
+      "readability": 96.7,
+      "placement": 76.4,
+      "composition": 71.6,
+      "harmony": 100.0,
+      "copy": 72.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_babd",
+    "composite_score": 67.8,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Authentic, Timeless, Rugged, and Inclusive",
+      "visual_style": "Editorial photography with a focus on real-life scenarios, diverse models showcasing versatility, and a nostalgic yet modern aesthetic",
+      "conceptual_technique": "Lifestyle-focused storytelling with an emphasis on heritage and authenticity",
+      "emotion": "Belonging, Confidence, Nostalgia",
+      "typography_style": "Classic serif with vintage flair, reminiscent of heritage branding",
+      "color_scheme": "Indigo denim blue, earthy browns, and crisp white accents",
+      "headline": "501 Days of You",
+      "call_to_action": "Find Your Fit",
+      "ad_style": "Lifestyle-focused storytelling with an emphasis on heritage and authenticity",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "All genders",
+          "income": "Middle to upper-middle class",
+          "location": "Urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Casual, Fashion-forward",
+          "values": "Authenticity, Quality, Heritage",
+          "interests": "Fashion, Music, Art, Culture"
+        }
+      },
+      "key_benefits": [
+        "Iconic and timeless design",
+        "Superior durability and quality",
+        "Versatility for various styles",
+        "Cultural significance and heritage",
+        "Comfortable fit for everyday wear"
+      ],
+      "product_highlight": "The iconic and original fit that has remained unchanged for generations, symbolizing both tradition and modernity"
+    },
+    "quality_breakdown": {
+      "readability": 58.6,
+      "placement": 52.7,
+      "composition": 79.6,
+      "harmony": 100.0,
+      "copy": 74.0
+    }
+  },
+  "created_at": "2026-03-18T20:52:13.744033",
+  "metadata": {
+    "test_id": "abtest_1773847083_dd244b",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

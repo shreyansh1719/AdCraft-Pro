@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773845559_14cfe5_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Apple AirPods Pro 3 wireless earbuds",
+  "score_difference": 33.0,
+  "preferred": {
+    "variant_id": "v3_336b",
+    "composite_score": 85.3,
+    "grade": "A",
+    "creative_brief": {
+      "tone": "Innovative, sleek, aspirational with a focus on sophistication and technological excellence",
+      "visual_style": "Minimalistic yet sophisticated with clean lines. Emphasize sleek product imagery against contrasting backgrounds to highlight the product's design and technology.",
+      "conceptual_technique": "Emotionally engaging storytelling with a focus on lifestyle integration, utilizing both digital and experiential marketing channels",
+      "emotion": "Tranquility, empowerment, exclusivity",
+      "typography_style": "San Francisco sans-serif, clean and modern with a high-tech aesthetic",
+      "color_scheme": "space grey, crisp white, and ethereal blue",
+      "headline": "Silence, Sound, and Everything in Between.",
+      "call_to_action": "Explore the Sound",
+      "ad_style": "Emotionally engaging storytelling with a focus on lifestyle integration, utilizing both digital and experiential marketing channels",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "income": "Middle to upper-middle class",
+          "geography": "Global, with a focus on urban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Tech-savvy, early adopters, style-conscious",
+          "values": "Quality, innovation, brand prestige"
+        }
+      },
+      "key_benefits": [
+        "Advanced noise-cancellation technology",
+        "Superior sound quality with spatial audio",
+        "Seamless integration with Apple ecosystem"
+      ],
+      "product_highlight": "Cutting-edge noise-cancellation feature that offers an unparalleled listening experience"
+    },
+    "quality_breakdown": {
+      "readability": 84.2,
+      "placement": 100.0,
+      "composition": 75.8,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_8a33",
+    "composite_score": 52.3,
+    "grade": "C-",
+    "creative_brief": {
+      "tone": "sleek, innovative, aspirational, and tech-savvy",
+      "visual_style": "Minimalistic and clean design with a focus on lifestyle imagery that showcases the product in dynamic and everyday scenarios, emphasizing the seamless integration with modern life",
+      "conceptual_technique": "Immersive storytelling through digital and social media platforms, highlighting real-life use cases and testimonials from influencers",
+      "emotion": "freedom, tranquility, empowerment",
+      "typography_style": "San Francisco typeface, sleek and modern with a slight emphasis on elegance",
+      "color_scheme": "Apple's signature clean white and soft silver with subtle gradients of dawn blue",
+      "headline": "Sound Unseen.",
+      "call_to_action": "Get AirPods Pro 3",
+      "ad_style": "Immersive storytelling through digital and social media platforms, highlighting real-life use cases and testimonials from influencers",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "all genders",
+          "income": "middle to high income",
+          "education": "college educated"
+        },
+        "psychographics": {
+          "lifestyle": "tech enthusiasts, trendsetters, and audiophiles",
+          "values": "innovation, quality, and brand prestige",
+          "behaviors": "early adopters, frequent travelers, and fitness enthusiasts"
+        }
+      },
+      "key_benefits": [
+        "Superior sound quality with advanced noise cancellation",
+        "Seamless integration with Apple ecosystem",
+        "Enhanced comfort and customizable fit",
+        "Improved battery life for extended use",
+        "Water and sweat resistance for active lifestyles"
+      ],
+      "product_highlight": "Advanced noise cancellation technology that elevates listening experiences in any environment"
+    },
+    "quality_breakdown": {
+      "readability": 53.1,
+      "placement": 2.8,
+      "composition": 69.8,
+      "harmony": 100.0,
+      "copy": 78.0
+    }
+  },
+  "created_at": "2026-03-18T20:27:04.422912",
+  "metadata": {
+    "test_id": "abtest_1773845559_14cfe5",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pair_id": "pair_abtest_1773847083_dd244b_1_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Levi's 501 original fit jeans",
+  "score_difference": 8.4,
+  "preferred": {
+    "variant_id": "v2_babd",
+    "composite_score": 67.8,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Authentic, Timeless, Rugged, and Inclusive",
+      "visual_style": "Editorial photography with a focus on real-life scenarios, diverse models showcasing versatility, and a nostalgic yet modern aesthetic",
+      "conceptual_technique": "Lifestyle-focused storytelling with an emphasis on heritage and authenticity",
+      "emotion": "Belonging, Confidence, Nostalgia",
+      "typography_style": "Classic serif with vintage flair, reminiscent of heritage branding",
+      "color_scheme": "Indigo denim blue, earthy browns, and crisp white accents",
+      "headline": "501 Days of You",
+      "call_to_action": "Find Your Fit",
+      "ad_style": "Lifestyle-focused storytelling with an emphasis on heritage and authenticity",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "All genders",
+          "income": "Middle to upper-middle class",
+          "location": "Urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Casual, Fashion-forward",
+          "values": "Authenticity, Quality, Heritage",
+          "interests": "Fashion, Music, Art, Culture"
+        }
+      },
+      "key_benefits": [
+        "Iconic and timeless design",
+        "Superior durability and quality",
+        "Versatility for various styles",
+        "Cultural significance and heritage",
+        "Comfortable fit for everyday wear"
+      ],
+      "product_highlight": "The iconic and original fit that has remained unchanged for generations, symbolizing both tradition and modernity"
+    },
+    "quality_breakdown": {
+      "readability": 58.6,
+      "placement": 52.7,
+      "composition": 79.6,
+      "harmony": 100.0,
+      "copy": 74.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_6efe",
+    "composite_score": 59.4,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "Authentic, Timeless, and Effortlessly Cool",
+      "visual_style": "Classic yet contemporary imagery featuring diverse, stylish individuals in urban settings, emphasizing the jeans' versatility and timelessness",
+      "conceptual_technique": "Emotional storytelling that connects heritage with modern lifestyle",
+      "emotion": "Confidence, Belonging, Nostalgia",
+      "typography_style": "Bold, vintage-inspired serif for a timeless feel",
+      "color_scheme": "Denim indigo, urban greys, and classic white",
+      "headline": "Fit For The Icons",
+      "call_to_action": "Join the Legacy",
+      "ad_style": "Emotional storytelling that connects heritage with modern lifestyle",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "All genders",
+          "income": "Middle to upper-middle class",
+          "location": "Urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Fashion-forward, values authenticity and heritage, seeks quality",
+          "values": "Individuality, self-expression, quality craftsmanship"
+        }
+      },
+      "key_benefits": [
+        "Timeless design and universal appeal",
+        "Durable construction with high-quality materials",
+        "Versatile styling for various occasions"
+      ],
+      "product_highlight": "Iconic fit that has stood the test of time, offering a perfect blend of comfort and style"
+    },
+    "quality_breakdown": {
+      "readability": 76.0,
+      "placement": 27.9,
+      "composition": 45.7,
+      "harmony": 100.0,
+      "copy": 70.0
+    }
+  },
+  "created_at": "2026-03-18T20:52:13.747351",
+  "metadata": {
+    "test_id": "abtest_1773847083_dd244b",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

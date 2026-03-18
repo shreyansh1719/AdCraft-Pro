@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773846341_8e1d05_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Chanel No. 5 eau de parfum",
+  "score_difference": 13.5,
+  "preferred": {
+    "variant_id": "v3_3083",
+    "composite_score": 69.5,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "elegant, timeless, sophisticated, iconic",
+      "visual_style": "Classic and sophisticated imagery; black and white photography with touches of gold or soft pastel accents to evoke luxury and timelessness",
+      "conceptual_technique": "Storytelling through evocative, cinematic visuals that emphasize heritage and timeless elegance; leveraging aspirational narratives featuring iconic figures",
+      "emotion": "desire, admiration, nostalgia, sophistication",
+      "typography_style": "Elegant high-contrast serif fonts, reminiscent of classic fashion magazines",
+      "color_scheme": "monochrome black and white with hints of gold and soft beige",
+      "headline": "The Fifth Element of Elegance",
+      "call_to_action": "Discover Now",
+      "ad_style": "Storytelling through evocative, cinematic visuals that emphasize heritage and timeless elegance; leveraging aspirational narratives featuring iconic figures",
+      "target_market": {
+        "demographics": {
+          "gender": "female",
+          "age_range": "30-55",
+          "income_level": "upper-middle to high income",
+          "geographical_focus": "global with emphasis on urban areas"
+        },
+        "psychographics": {
+          "lifestyle": "fashion-forward, culture-oriented, values exclusivity",
+          "values": "quality, heritage, prestige",
+          "buying_behavior": "brand loyal, experience-oriented, prestige-driven"
+        }
+      },
+      "key_benefits": [
+        "Timeless fragrance with a rich heritage",
+        "High-quality ingredients and craftsmanship",
+        "Status symbol with iconic appeal"
+      ],
+      "product_highlight": "Enduring legacy and status of CHANEL No. 5 as the quintessential luxury fragrance"
+    },
+    "quality_breakdown": {
+      "readability": 54.2,
+      "placement": 85.6,
+      "composition": 58.3,
+      "harmony": 100.0,
+      "copy": 68.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_04b9",
+    "composite_score": 56.0,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "Sophisticated, Elegant, Timeless, Classic",
+      "visual_style": "High-contrast imagery that uses a combination of classic black and white photography with touches of gold or beige, reflecting the opulence and timelessness of the brand. Focus on elegant lines and classic compositions.",
+      "conceptual_technique": "Heritage storytelling with a focus on the timeless allure and iconic status of the fragrance. Use of aspirational imagery and narratives that evoke emotional connections to the brand's legacy.",
+      "emotion": "Desire, Admiration, Nostalgia",
+      "typography_style": "Classic serif typeface with elegant ligatures, slightly condensed for a luxurious feel.",
+      "color_scheme": "Chanel's signature black and white with accents of gold and soft beige",
+      "headline": "The Fifth Element of Elegance",
+      "call_to_action": "Discover Your Icon",
+      "ad_style": "Heritage storytelling with a focus on the timeless allure and iconic status of the fragrance. Use of aspirational imagery and narratives that evoke emotional connections to the brand's legacy.",
+      "target_market": {
+        "demographics": {
+          "age": "30-55",
+          "gender": "Predominantly female",
+          "income_level": "High income",
+          "geographic": "Global urban centers"
+        },
+        "psychographics": {
+          "lifestyle": "Affluent, luxury-seeking",
+          "values": "Quality, heritage, exclusivity",
+          "interests": "High fashion, art, cultural pursuits"
+        }
+      },
+      "key_benefits": [
+        "Iconic fragrance with a rich history",
+        "Long-lasting scent",
+        "Evokes a sense of elegance and sophistication"
+      ],
+      "product_highlight": "The fragrance's status as an iconic and timeless scent that has been a symbol of luxury and sophistication for nearly a century."
+    },
+    "quality_breakdown": {
+      "readability": 55.4,
+      "placement": 17.8,
+      "composition": 73.0,
+      "harmony": 100.0,
+      "copy": 69.0
+    }
+  },
+  "created_at": "2026-03-18T20:39:46.376242",
+  "metadata": {
+    "test_id": "abtest_1773846341_8e1d05",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

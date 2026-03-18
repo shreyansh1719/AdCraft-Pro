@@ -1,0 +1,106 @@
+{
+  "pair_id": "pair_abtest_1773848273_de8a94_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Samsung Galaxy S25 Ultra smartphone",
+  "score_difference": 10.7,
+  "preferred": {
+    "variant_id": "v2_73bb",
+    "composite_score": 78.1,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "innovative, sophisticated, aspirational, and tech-savvy",
+      "visual_style": "sleek and modern aesthetics with high contrast imagery and dynamic angles to convey innovation and sophistication",
+      "conceptual_technique": "immersive and experiential campaigns focusing on real-world applications and user testimonials",
+      "emotion": "awe, inspiration, desire for exploration",
+      "typography_style": "Futuristic sans-serif with a clean, minimalistic layout to enhance readability and modern appeal",
+      "color_scheme": "midnight black, cosmic silver, and vibrant galaxy blue",
+      "headline": "Capture Beyond Limits",
+      "call_to_action": "Explore the Future",
+      "ad_style": "immersive and experiential campaigns focusing on real-world applications and user testimonials",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income_level": "upper-middle to high income",
+          "geographical_location": "urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "tech enthusiasts, trendsetters, and early adopters",
+          "values": "innovation, quality, and status",
+          "interests": "latest technology, photography, and mobile gaming"
+        }
+      },
+      "key_benefits": [
+        "Cutting-edge camera technology with superior zoom and low-light capabilities",
+        "High-resolution display with enhanced color accuracy and refresh rates",
+        "Advanced processing power for seamless multitasking and gaming",
+        "Long-lasting battery life with fast charging capabilities",
+        "Robust security features including biometric authentication"
+      ],
+      "product_highlight": "AI-enhanced camera capabilities that redefine mobile photography"
+    },
+    "quality_breakdown": {
+      "readability": 81.9,
+      "placement": 84.2,
+      "composition": 66.6,
+      "harmony": 100.0,
+      "copy": 61.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_7221",
+    "composite_score": 67.4,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "innovative, aspirational, cutting-edge, confident",
+      "visual_style": "Sleek, modern aesthetics with high contrast and clean lines; use of dynamic imagery to convey motion and innovation",
+      "conceptual_technique": "Experiential and storytelling approach focusing on real-life scenarios and user-generated content to highlight product capabilities",
+      "emotion": "awe, inspiration, desire for innovation",
+      "typography_style": "Bold, futuristic sans-serif with a slight italic slant to suggest motion and progress",
+      "color_scheme": "Midnight black, electric blue, and starlight silver",
+      "headline": "Ultra Visionary.",
+      "call_to_action": "Explore the Ultra",
+      "ad_style": "Experiential and storytelling approach focusing on real-life scenarios and user-generated content to highlight product capabilities",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income": "upper-middle to high income",
+          "location": "global, with a focus on urban centers"
+        },
+        "psychographics": {
+          "lifestyle": "tech-savvy, early adopters, value seekers",
+          "interests": "technology, photography, productivity, entertainment",
+          "values": "innovation, quality, status"
+        }
+      },
+      "key_benefits": [
+        "State-of-the-art camera capabilities with advanced AI features",
+        "Superb display quality with high refresh rates for an immersive viewing experience",
+        "Long-lasting battery life with fast charging technology",
+        "Seamless integration with Samsung's ecosystem and smart devices",
+        "Enhanced security features with biometric authentication"
+      ],
+      "product_highlight": "Revolutionary camera system with cutting-edge AI features for professional-grade photography and videography"
+    },
+    "quality_breakdown": {
+      "readability": 45.8,
+      "placement": 75.2,
+      "composition": 66.7,
+      "harmony": 100.0,
+      "copy": 77.0
+    }
+  },
+  "created_at": "2026-03-18T21:12:00.896213",
+  "metadata": {
+    "test_id": "abtest_1773848273_de8a94",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "pair_id": "pair_abtest_1773847557_d46dde_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Adidas Samba OG retro sneakers",
+  "score_difference": 8.1,
+  "preferred": {
+    "variant_id": "v2_748a",
+    "composite_score": 69.2,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "authentic, nostalgic, dynamic, urban",
+      "visual_style": "Focus on urban landscapes and street-style photography to capture the essence of everyday wear. Highlight diverse individuals and scenarios to showcase versatility and broad appeal.",
+      "conceptual_technique": "Integrated storytelling through digital and social media platforms, emphasizing user-generated content and influencer partnerships to leverage authenticity and community engagement",
+      "emotion": "belonging, nostalgia, confidence",
+      "typography_style": "Bold, vintage-inspired sans-serif with a slight distressed texture for an authentic retro feel",
+      "color_scheme": "classic Adidas white and black with pops of urban graffiti colors like electric blue and fiery red",
+      "headline": "Sole Stories: Urban Legends in the Making",
+      "call_to_action": "Join Now",
+      "ad_style": "Integrated storytelling through digital and social media platforms, emphasizing user-generated content and influencer partnerships to leverage authenticity and community engagement",
+      "target_market": {
+        "demographics": {
+          "age_range": "18-35 years old",
+          "gender": "all genders",
+          "income_level": "middle to upper-middle income",
+          "location": "urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "fashion-forward, trend-conscious, and active",
+          "values": "appreciation for heritage and authenticity, desire for self-expression"
+        }
+      },
+      "key_benefits": [
+        "Timeless design that appeals to both vintage and modern sensibilities",
+        "High-quality materials and construction ensuring durability",
+        "Versatile style suitable for casual and semi-formal occasions"
+      ],
+      "product_highlight": "The heritage-inspired silhouette that seamlessly blends with contemporary fashion trends"
+    },
+    "quality_breakdown": {
+      "readability": 87.0,
+      "placement": 43.6,
+      "composition": 61.3,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_2790",
+    "composite_score": 61.1,
+    "grade": "C+",
+    "creative_brief": {
+      "tone": "Authentic, sporty, and nostalgic with a modern twist",
+      "visual_style": "Focus on clean, minimalistic imagery with a blend of urban and sporty settings. Use dynamic shots that capture the movement and versatility of the shoes, emphasizing both street style and athletic heritage.",
+      "conceptual_technique": "Integrated campaigns leveraging digital platforms and influencer partnerships to highlight the sneaker's heritage and contemporary relevance",
+      "emotion": "Nostalgia, confidence, and urban cool",
+      "typography_style": "Bold, condensed sans-serif with a vintage touch for authenticity",
+      "color_scheme": "Classic Adidas white, navy blue, and gum sole beige",
+      "headline": "Step Into the Originals",
+      "call_to_action": "Shop Now",
+      "ad_style": "Integrated campaigns leveraging digital platforms and influencer partnerships to highlight the sneaker's heritage and contemporary relevance",
+      "target_market": {
+        "demographics": {
+          "age_range": "18-35",
+          "gender": "Unisex",
+          "income_level": "Middle to upper-middle class",
+          "location": "Urban and suburban areas globally"
+        },
+        "psychographics": {
+          "lifestyle": "Trend-conscious individuals with an affinity for classic and retro styles",
+          "values": "Appreciation for heritage brands and sustainable fashion",
+          "interests": "Sports, music, streetwear culture, and fashion"
+        }
+      },
+      "key_benefits": [
+        "Timeless design that resonates with retro and modern aesthetics",
+        "High-quality materials ensuring durability and comfort",
+        "Versatile style that complements various outfits and occasions"
+      ],
+      "product_highlight": "The classic and iconic silhouette of the Samba OG, which remains as relevant today as when it was first introduced."
+    },
+    "quality_breakdown": {
+      "readability": 46.6,
+      "placement": 51.7,
+      "composition": 65.5,
+      "harmony": 100.0,
+      "copy": 74.0
+    }
+  },
+  "created_at": "2026-03-18T20:59:44.823683",
+  "metadata": {
+    "test_id": "abtest_1773847557_d46dde",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

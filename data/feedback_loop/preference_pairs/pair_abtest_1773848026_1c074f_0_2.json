@@ -1,0 +1,101 @@
+{
+  "pair_id": "pair_abtest_1773848026_1c074f_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Coca-Cola Original classic beverage",
+  "score_difference": 11.2,
+  "preferred": {
+    "variant_id": "v3_a43b",
+    "composite_score": 76.1,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "friendly, refreshing, optimistic, and timeless",
+      "visual_style": "Bold and vibrant imagery that captures moments of joy and togetherness, featuring diverse groups of people enjoying Coca-Cola in everyday settings",
+      "conceptual_technique": "Emotional storytelling with a focus on shared experiences and moments of happiness",
+      "emotion": "joy, camaraderie, nostalgia, and refreshment",
+      "typography_style": "Classic Coca-Cola script logo alongside clean, approachable sans-serif body text",
+      "color_scheme": "Coca-Cola's signature red with accents of white and natural outdoor greens and blues",
+      "headline": "Pop Open Happiness",
+      "call_to_action": "Share a Coke",
+      "ad_style": "Emotional storytelling with a focus on shared experiences and moments of happiness",
+      "target_market": {
+        "demographics": {
+          "age": "12-65",
+          "gender": "all genders",
+          "income": "all income levels",
+          "location": "global"
+        },
+        "psychographics": {
+          "lifestyle": "social, active, and community-oriented",
+          "values": "enjoyment, tradition, and shared experiences"
+        }
+      },
+      "key_benefits": [
+        "Iconic and universally recognized taste",
+        "Consistent quality and reliability",
+        "Cultural and nostalgic brand value"
+      ],
+      "product_highlight": "The original and authentic taste that connects generations and cultures"
+    },
+    "quality_breakdown": {
+      "readability": 89.7,
+      "placement": 54.5,
+      "composition": 66.9,
+      "harmony": 100.0,
+      "copy": 81.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_61a8",
+    "composite_score": 64.9,
+    "grade": "C+",
+    "creative_brief": {
+      "tone": "friendly, nostalgic, inclusive, and refreshing",
+      "visual_style": "Clean and classic imagery that reflects the heritage of Coca-Cola, focusing on red and white themes with iconic elements like the contour bottle. Visuals should evoke feelings of happiness and togetherness.",
+      "conceptual_technique": "Emotionally driven storytelling that leverages nostalgia and moments of joy across multimedia platforms including television, social media, and out-of-home advertising.",
+      "emotion": "joy, nostalgia, camaraderie",
+      "typography_style": "Classic Spencerian script logo with clean, approachable sans-serif for any additional text",
+      "color_scheme": "Coca-Cola red, white, and natural outdoor greens and blues",
+      "headline": "Sip of Happiness",
+      "call_to_action": "Taste the Feeling",
+      "ad_style": "Emotionally driven storytelling that leverages nostalgia and moments of joy across multimedia platforms including television, social media, and out-of-home advertising.",
+      "target_market": {
+        "demographics": {
+          "age": "18-49",
+          "gender": "all genders",
+          "income": "low to middle income",
+          "geography": "global"
+        },
+        "psychographics": {
+          "lifestyle": "socially active, enjoys classic experiences",
+          "values": "tradition, simplicity, enjoyment",
+          "behavior": "frequent social gatherings, brand loyal"
+        }
+      },
+      "key_benefits": [
+        "Timeless and universally recognized taste",
+        "Emotional connection and nostalgia",
+        "Consistent quality and availability"
+      ],
+      "product_highlight": "The classic and original taste that has been loved for generations."
+    },
+    "quality_breakdown": {
+      "readability": 60.5,
+      "placement": 48.5,
+      "composition": 65.6,
+      "harmony": 100.0,
+      "copy": 77.0
+    }
+  },
+  "created_at": "2026-03-18T21:07:53.793785",
+  "metadata": {
+    "test_id": "abtest_1773848026_1c074f",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

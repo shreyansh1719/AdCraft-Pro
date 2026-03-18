@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773846341_8e1d05_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Chanel No. 5 eau de parfum",
+  "score_difference": 5.0,
+  "preferred": {
+    "variant_id": "v3_3083",
+    "composite_score": 69.5,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "elegant, timeless, sophisticated, iconic",
+      "visual_style": "Classic and sophisticated imagery; black and white photography with touches of gold or soft pastel accents to evoke luxury and timelessness",
+      "conceptual_technique": "Storytelling through evocative, cinematic visuals that emphasize heritage and timeless elegance; leveraging aspirational narratives featuring iconic figures",
+      "emotion": "desire, admiration, nostalgia, sophistication",
+      "typography_style": "Elegant high-contrast serif fonts, reminiscent of classic fashion magazines",
+      "color_scheme": "monochrome black and white with hints of gold and soft beige",
+      "headline": "The Fifth Element of Elegance",
+      "call_to_action": "Discover Now",
+      "ad_style": "Storytelling through evocative, cinematic visuals that emphasize heritage and timeless elegance; leveraging aspirational narratives featuring iconic figures",
+      "target_market": {
+        "demographics": {
+          "gender": "female",
+          "age_range": "30-55",
+          "income_level": "upper-middle to high income",
+          "geographical_focus": "global with emphasis on urban areas"
+        },
+        "psychographics": {
+          "lifestyle": "fashion-forward, culture-oriented, values exclusivity",
+          "values": "quality, heritage, prestige",
+          "buying_behavior": "brand loyal, experience-oriented, prestige-driven"
+        }
+      },
+      "key_benefits": [
+        "Timeless fragrance with a rich heritage",
+        "High-quality ingredients and craftsmanship",
+        "Status symbol with iconic appeal"
+      ],
+      "product_highlight": "Enduring legacy and status of CHANEL No. 5 as the quintessential luxury fragrance"
+    },
+    "quality_breakdown": {
+      "readability": 54.2,
+      "placement": 85.6,
+      "composition": 58.3,
+      "harmony": 100.0,
+      "copy": 68.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_de3b",
+    "composite_score": 64.5,
+    "grade": "C+",
+    "creative_brief": {
+      "tone": "Sophisticated, timeless, elegant, and sensual",
+      "visual_style": "Minimalistic and elegant with high-contrast photography, featuring timeless and iconic imagery that evokes a sense of luxury and sophistication",
+      "conceptual_technique": "Emotionally resonant storytelling that highlights heritage and elegance, using classic and modern media platforms",
+      "emotion": "Desire, elegance, empowerment",
+      "typography_style": "Classic serif with high contrast, evoking timeless elegance",
+      "color_scheme": "Pearl white, gold, and deep ebony",
+      "headline": "WHAT DO I WANT?",
+      "call_to_action": "Discover Now",
+      "ad_style": "Emotionally resonant storytelling that highlights heritage and elegance, using classic and modern media platforms",
+      "target_market": {
+        "demographics": {
+          "gender": "female",
+          "age_range": "25-55",
+          "income_level": "high income",
+          "location": "global"
+        },
+        "psychographics": {
+          "lifestyle": "affluent, fashion-forward, culturally engaged",
+          "values": "heritage, exclusivity, elegance",
+          "interests": "art, fashion, travel, luxury experiences"
+        }
+      },
+      "key_benefits": [
+        "Iconic fragrance with a rich history",
+        "Complex and sophisticated scent profile",
+        "Symbol of timeless luxury and elegance"
+      ],
+      "product_highlight": "The iconic status and timeless legacy of Chanel No. 5 as a symbol of luxury and elegance"
+    },
+    "quality_breakdown": {
+      "readability": 53.1,
+      "placement": 50.4,
+      "composition": 80.5,
+      "harmony": 100.0,
+      "copy": 66.0
+    }
+  },
+  "created_at": "2026-03-18T20:39:46.374873",
+  "metadata": {
+    "test_id": "abtest_1773846341_8e1d05",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "pair_id": "pair_abtest_1773849842_cf5420_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Omega Speedmaster Moonwatch",
+  "score_difference": 27.2,
+  "preferred": {
+    "variant_id": "v2_1622",
+    "composite_score": 84.3,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "sophisticated, aspirational, authoritative, and timeless",
+      "visual_style": "High-contrast, dramatic imagery showcasing the watch in adventurous and technical settings, with a focus on its intricate details and moon-related motifs",
+      "conceptual_technique": "Storytelling through heritage-focused campaigns, leveraging historical milestones and its association with the Apollo missions",
+      "emotion": "awe, pride, trust, inspiration",
+      "typography_style": "Elegant serif with a slight vintage touch, conveying heritage and luxury",
+      "color_scheme": "deep space black, celestial white, and Omega's signature red",
+      "headline": "TIME FLIES WHEREVER YOU GO",
+      "call_to_action": "Explore Now",
+      "ad_style": "Storytelling through heritage-focused campaigns, leveraging historical milestones and its association with the Apollo missions",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "predominantly male",
+          "income": "high-income earners",
+          "education": "college-educated"
+        },
+        "psychographics": {
+          "lifestyle": "affluent, appreciates craftsmanship and heritage",
+          "values": "quality, prestige, and exclusivity",
+          "interests": "space exploration, fine art, and horology"
+        }
+      },
+      "key_benefits": [
+        "Iconic design with historical significance as the first watch worn on the moon",
+        "Exceptional precision and durability, meeting professional chronograph standards",
+        "Legacy of innovation and connection to space exploration"
+      ],
+      "product_highlight": "The Moonwatch's unparalleled heritage as the original and only watch certified by NASA for all manned space missions"
+    },
+    "quality_breakdown": {
+      "readability": 99.0,
+      "placement": 73.4,
+      "composition": 77.2,
+      "harmony": 100.0,
+      "copy": 72.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_36af",
+    "composite_score": 57.1,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "Timeless, aspirational, sophisticated, and authoritative",
+      "visual_style": "Cinematic imagery emphasizing the watch's connection to the moon landing, using both historical footage and modern-day high-resolution photography to convey a sense of timeless elegance and adventure",
+      "conceptual_technique": "Heritage storytelling through high-impact visuals and emotionally resonant narratives, leveraging both digital platforms and prestige publications",
+      "emotion": "Awe, nostalgia, pride, aspiration",
+      "typography_style": "Classic serif with a modern twist, elegant and refined",
+      "color_scheme": "deep space black, lunar white, and celestial blue accents",
+      "headline": "TIME FLIES TO THE MOON",
+      "call_to_action": "Explore the Legacy Collection",
+      "ad_style": "Heritage storytelling through high-impact visuals and emotionally resonant narratives, leveraging both digital platforms and prestige publications",
+      "target_market": {
+        "demographics": "Affluent males aged 30-55, high-income brackets, often professionals or entrepreneurs",
+        "psychographics": "Individuals who value precision, heritage, and exclusivity; often collectors or enthusiasts of fine timepieces, with a keen interest in space exploration or horology"
+      },
+      "key_benefits": [
+        "Iconic design with historical significance as the first watch worn on the moon",
+        "Superior craftsmanship and high-precision Swiss engineering",
+        "Enduring investment value due to the brand's prestigious reputation"
+      ],
+      "product_highlight": "The Moonwatch's legacy as the only watch worn on all six moon landings, underscoring its historical prestige and unmatched durability"
+    },
+    "quality_breakdown": {
+      "readability": 43.7,
+      "placement": 35.7,
+      "composition": 70.7,
+      "harmony": 100.0,
+      "copy": 73.0
+    }
+  },
+  "created_at": "2026-03-18T21:39:06.160978",
+  "metadata": {
+    "test_id": "abtest_1773849842_cf5420",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

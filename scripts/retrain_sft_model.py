@@ -31,7 +31,7 @@ except ImportError:
 # Config
 # ---------------------------------------------------------------------------
 
-TRAINING_FILE = "fine_tuning_dataset_v2.jsonl"
+TRAINING_FILE = "fine_tuning_dataset_v3.jsonl"
 BASE_MODEL = "gpt-4.1-mini-2025-04-14"
 N_EPOCHS = 3
 POLL_INTERVAL_SECS = 60

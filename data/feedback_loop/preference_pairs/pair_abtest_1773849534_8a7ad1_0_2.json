@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773849534_8a7ad1_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Arc'teryx Alpha SV hardshell jacket",
+  "score_difference": 16.9,
+  "preferred": {
+    "variant_id": "v2_793c",
+    "composite_score": 76.9,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "Adventurous, Technical, Authentic",
+      "visual_style": "Crisp, high-resolution imagery showcasing the product in extreme environments, highlighting performance and durability",
+      "conceptual_technique": "Experiential advertising with a focus on real-world usage and testimonials from professional athletes and adventurers",
+      "emotion": "Awe, Confidence, Resilience",
+      "typography_style": "Bold, condensed sans-serif for a rugged and modern look",
+      "color_scheme": "Arctic blue, slate grey, and stormy white",
+      "headline": "Weather? What Weather?",
+      "call_to_action": "Explore Alpha SV",
+      "ad_style": "Experiential advertising with a focus on real-world usage and testimonials from professional athletes and adventurers",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income_level": "upper-middle to high income",
+          "geographic_location": "urban and suburban areas with access to outdoor activities"
+        },
+        "psychographics": {
+          "lifestyle": "active and outdoor-oriented",
+          "values": "quality, performance, sustainability",
+          "interests": "hiking, climbing, skiing, mountaineering"
+        }
+      },
+      "key_benefits": [
+        "Exceptional durability and weather protection",
+        "Lightweight and packable design",
+        "Advanced materials and construction for enhanced performance"
+      ],
+      "product_highlight": "GORE-TEX PRO fabric for unmatched weather resistance and breathability"
+    },
+    "quality_breakdown": {
+      "readability": 79.6,
+      "placement": 65.5,
+      "composition": 76.4,
+      "harmony": 100.0,
+      "copy": 76.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_6638",
+    "composite_score": 60.0,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "adventurous, authoritative, and aspirational",
+      "visual_style": "Cinematic imagery showcasing the product in rugged, awe-inspiring outdoor settings to convey a sense of adventure and resilience",
+      "conceptual_technique": "Experience-driven storytelling that highlights real-world applications and expert endorsements",
+      "emotion": "invincibility, awe, and confidence",
+      "typography_style": "Bold, rugged serif typeface with a weathered texture, emphasizing durability",
+      "color_scheme": "Arctic white, glacier blue, and slate grey",
+      "headline": "Shell Yeah!",
+      "call_to_action": "Explore Now",
+      "ad_style": "Experience-driven storytelling that highlights real-world applications and expert endorsements",
+      "target_market": {
+        "demographics": {
+          "age": "25-45",
+          "gender": "all genders",
+          "income": "upper-middle to high income",
+          "location": "urban and suburban areas with proximity to outdoor recreation"
+        },
+        "psychographics": {
+          "lifestyle": "active outdoor enthusiasts, adventure seekers",
+          "values": "quality, performance, and sustainability",
+          "interests": "mountaineering, hiking, skiing, and other outdoor activities"
+        }
+      },
+      "key_benefits": [
+        "Unmatched durability and protection in extreme weather conditions",
+        "Advanced materials and construction for superior performance",
+        "Lightweight design without compromising on functionality"
+      ],
+      "product_highlight": "GORE-TEX Pro technology for unbeatable waterproofing and breathability"
+    },
+    "quality_breakdown": {
+      "readability": 53.5,
+      "placement": 37.1,
+      "composition": 62.5,
+      "harmony": 100.0,
+      "copy": 81.0
+    }
+  },
+  "created_at": "2026-03-18T21:34:02.831480",
+  "metadata": {
+    "test_id": "abtest_1773849534_8a7ad1",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

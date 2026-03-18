@@ -1,0 +1,102 @@
+{
+  "pair_id": "pair_abtest_1773849842_cf5420_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Omega Speedmaster Moonwatch",
+  "score_difference": 8.8,
+  "preferred": {
+    "variant_id": "v2_1622",
+    "composite_score": 84.3,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "sophisticated, aspirational, authoritative, and timeless",
+      "visual_style": "High-contrast, dramatic imagery showcasing the watch in adventurous and technical settings, with a focus on its intricate details and moon-related motifs",
+      "conceptual_technique": "Storytelling through heritage-focused campaigns, leveraging historical milestones and its association with the Apollo missions",
+      "emotion": "awe, pride, trust, inspiration",
+      "typography_style": "Elegant serif with a slight vintage touch, conveying heritage and luxury",
+      "color_scheme": "deep space black, celestial white, and Omega's signature red",
+      "headline": "TIME FLIES WHEREVER YOU GO",
+      "call_to_action": "Explore Now",
+      "ad_style": "Storytelling through heritage-focused campaigns, leveraging historical milestones and its association with the Apollo missions",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "predominantly male",
+          "income": "high-income earners",
+          "education": "college-educated"
+        },
+        "psychographics": {
+          "lifestyle": "affluent, appreciates craftsmanship and heritage",
+          "values": "quality, prestige, and exclusivity",
+          "interests": "space exploration, fine art, and horology"
+        }
+      },
+      "key_benefits": [
+        "Iconic design with historical significance as the first watch worn on the moon",
+        "Exceptional precision and durability, meeting professional chronograph standards",
+        "Legacy of innovation and connection to space exploration"
+      ],
+      "product_highlight": "The Moonwatch's unparalleled heritage as the original and only watch certified by NASA for all manned space missions"
+    },
+    "quality_breakdown": {
+      "readability": 99.0,
+      "placement": 73.4,
+      "composition": 77.2,
+      "harmony": 100.0,
+      "copy": 72.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_d078",
+    "composite_score": 75.5,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "sophisticated, aspirational, authoritative, and timeless",
+      "visual_style": "Clean, sharp imagery that evokes a sense of grandeur and innovation, featuring imagery of space and the moon to reinforce the product's unique heritage",
+      "conceptual_technique": "Storytelling through cinematic visuals and aspirational narratives focusing on the brand's historical space exploration achievements",
+      "emotion": "awe, pride, nostalgia, and aspiration",
+      "typography_style": "Elegant serif with high contrast, conveying luxury and tradition",
+      "color_scheme": "lunar silver, deep space black, and Earth blue",
+      "headline": "Time Flies Beyond the Atmosphere",
+      "call_to_action": "Explore the Legacy",
+      "ad_style": "Storytelling through cinematic visuals and aspirational narratives focusing on the brand's historical space exploration achievements",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "male",
+          "income_level": "high-income",
+          "occupation": "professionals, executives, and entrepreneurs"
+        },
+        "psychographics": {
+          "lifestyle": "affluent and adventurous",
+          "values": "heritage, precision, and exclusivity",
+          "interests": "space exploration, horology, and luxury travel"
+        }
+      },
+      "key_benefits": [
+        "Iconic design linked to NASA's space missions",
+        "Superior craftsmanship with Swiss precision",
+        "Heritage and prestige associated with the Moonwatch legacy"
+      ],
+      "product_highlight": "The watch's historical significance as the first watch worn on the moon, reinforcing its status as a symbol of human achievement"
+    },
+    "quality_breakdown": {
+      "readability": 52.6,
+      "placement": 93.4,
+      "composition": 77.9,
+      "harmony": 100.0,
+      "copy": 72.0
+    }
+  },
+  "created_at": "2026-03-18T21:39:06.160035",
+  "metadata": {
+    "test_id": "abtest_1773849842_cf5420",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

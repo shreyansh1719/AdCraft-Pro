@@ -1,0 +1,100 @@
+{
+  "pair_id": "pair_abtest_1773848026_1c074f_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Coca-Cola Original classic beverage",
+  "score_difference": 10.9,
+  "preferred": {
+    "variant_id": "v3_a43b",
+    "composite_score": 76.1,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "friendly, refreshing, optimistic, and timeless",
+      "visual_style": "Bold and vibrant imagery that captures moments of joy and togetherness, featuring diverse groups of people enjoying Coca-Cola in everyday settings",
+      "conceptual_technique": "Emotional storytelling with a focus on shared experiences and moments of happiness",
+      "emotion": "joy, camaraderie, nostalgia, and refreshment",
+      "typography_style": "Classic Coca-Cola script logo alongside clean, approachable sans-serif body text",
+      "color_scheme": "Coca-Cola's signature red with accents of white and natural outdoor greens and blues",
+      "headline": "Pop Open Happiness",
+      "call_to_action": "Share a Coke",
+      "ad_style": "Emotional storytelling with a focus on shared experiences and moments of happiness",
+      "target_market": {
+        "demographics": {
+          "age": "12-65",
+          "gender": "all genders",
+          "income": "all income levels",
+          "location": "global"
+        },
+        "psychographics": {
+          "lifestyle": "social, active, and community-oriented",
+          "values": "enjoyment, tradition, and shared experiences"
+        }
+      },
+      "key_benefits": [
+        "Iconic and universally recognized taste",
+        "Consistent quality and reliability",
+        "Cultural and nostalgic brand value"
+      ],
+      "product_highlight": "The original and authentic taste that connects generations and cultures"
+    },
+    "quality_breakdown": {
+      "readability": 89.7,
+      "placement": 54.5,
+      "composition": 66.9,
+      "harmony": 100.0,
+      "copy": 81.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_8de2",
+    "composite_score": 65.2,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Friendly, Refreshing, Inclusive, and Optimistic",
+      "visual_style": "Classic and timeless design elements that reinforce the brand's heritage, with an emphasis on real-life moments and authentic interactions. Imagery should be vibrant and capture spontaneous joy.",
+      "conceptual_technique": "Emotional storytelling with a focus on universal themes of joy and connection, leveraging both traditional media and digital platforms to reach a broad audience.",
+      "emotion": "Joy, Belonging, Refreshment",
+      "typography_style": "Classic Coca-Cola script logo with clean, friendly sans-serif body text",
+      "color_scheme": "Iconic Coca-Cola red, bottle green, and natural outdoor greens and blues",
+      "headline": "Fizz the Season!",
+      "call_to_action": "Enjoy Now",
+      "ad_style": "Emotional storytelling with a focus on universal themes of joy and connection, leveraging both traditional media and digital platforms to reach a broad audience.",
+      "target_market": {
+        "demographics": {
+          "age": "13-65",
+          "gender": "All genders",
+          "income": "All income levels",
+          "geography": "Global"
+        },
+        "psychographics": {
+          "lifestyle": "Social, Active, Enjoys simple pleasures",
+          "values": "Nostalgia, Togetherness, Happiness"
+        }
+      },
+      "key_benefits": [
+        "Iconic taste that is instantly recognizable",
+        "Wide availability and accessibility",
+        "Strong emotional connection with moments of happiness and togetherness"
+      ],
+      "product_highlight": "The iconic and refreshing taste that has been loved for generations."
+    },
+    "quality_breakdown": {
+      "readability": 50.9,
+      "placement": 59.4,
+      "composition": 64.6,
+      "harmony": 100.0,
+      "copy": 81.0
+    }
+  },
+  "created_at": "2026-03-18T21:07:53.791988",
+  "metadata": {
+    "test_id": "abtest_1773848026_1c074f",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

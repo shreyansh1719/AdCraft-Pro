@@ -1,0 +1,92 @@
+{
+  "pair_id": "pair_abtest_1773846586_05e579_0_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Sony PlayStation 5 Pro console",
+  "score_difference": 20.8,
+  "preferred": {
+    "variant_id": "v1_75ad",
+    "composite_score": 80.0,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "innovative, engaging, aspirational",
+      "visual_style": "Sophisticated and sleek design with a focus on futuristic elements that reflect the advanced technology and innovation of the console. Utilize high-quality, dynamic visuals to convey the console's capabilities and the immersive experiences it offers.",
+      "conceptual_technique": "Leverage a combination of digital and experiential marketing, focusing on immersive video content showcasing the console's capabilities, influencer partnerships for authentic reach, and interactive demos at tech and gaming events.",
+      "emotion": "excitement, wonder, anticipation",
+      "typography_style": "Modern, sleek sans-serif with a tech-inspired aesthetic, conveying a sense of cutting-edge innovation.",
+      "color_scheme": "PlayStation's signature black and white with electric blue accents to evoke energy and futuristic vibes.",
+      "headline": "Level Up Your Reality",
+      "call_to_action": "Explore Now",
+      "ad_style": "Leverage a combination of digital and experiential marketing, focusing on immersive video content showcasing the console's capabilities, influencer partnerships for authentic reach, and interactive demos at tech and gaming events.",
+      "target_market": "Tech-savvy males and females aged 18-35, predominantly millennials and Gen Z, with a strong interest in gaming and technology. They value cutting-edge technology, immersive experiences, and are often early adopters.",
+      "key_benefits": [
+        "Enhanced graphics with 4K resolution for an ultra-realistic gaming experience",
+        "High-speed processing and reduced load times for seamless gameplay",
+        "Backward compatibility with previous PlayStation games, expanding the gaming library",
+        "Advanced controller features, such as haptic feedback and adaptive triggers, for deeper immersion",
+        "Improved storage capacity to accommodate a growing library of digital games"
+      ],
+      "product_highlight": "The console's cutting-edge graphical capabilities and immersive gameplay experiences that set a new standard for home entertainment."
+    },
+    "quality_breakdown": {
+      "readability": 91.5,
+      "placement": 74.7,
+      "composition": 66.7,
+      "harmony": 100.0,
+      "copy": 70.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v2_9006",
+    "composite_score": 59.2,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "Innovative, Energetic, Sophisticated",
+      "visual_style": "Futuristic and sleek design elements with an emphasis on dynamic motion graphics and high-definition visuals. Incorporate gameplay footage and cinematic effects to convey a sense of movement and excitement.",
+      "conceptual_technique": "Dynamic and immersive storytelling that highlights the console's cutting-edge technology and unique gaming experiences. Emphasis on user testimonials and high-impact visuals.",
+      "emotion": "Excitement, Wonder, Anticipation",
+      "typography_style": "Modern, bold sans-serif with a tech-inspired aesthetic, slightly italicized for a sense of motion.",
+      "color_scheme": "Midnight black, electric blue, and vibrant neon accents",
+      "headline": "Level Up Reality",
+      "call_to_action": "Experience the Future",
+      "ad_style": "Dynamic and immersive storytelling that highlights the console's cutting-edge technology and unique gaming experiences. Emphasis on user testimonials and high-impact visuals.",
+      "target_market": {
+        "demographics": {
+          "age": "18-45",
+          "gender": "all genders",
+          "income": "middle to upper income brackets",
+          "location": "global"
+        },
+        "psychographics": {
+          "interests": "gaming, technology, entertainment, streaming",
+          "lifestyle": "tech-savvy, trendsetters, early adopters",
+          "values": "innovation, performance, immersive experiences"
+        }
+      },
+      "key_benefits": [
+        "Enhanced graphics and processing power for superior gaming experiences",
+        "Backward compatibility with existing PlayStation 5 games",
+        "Innovative DualSense controller with advanced haptic feedback"
+      ],
+      "product_highlight": "The enhanced graphics and processing capabilities that enable 4K gaming at higher frame rates, providing an unparalleled immersive experience."
+    },
+    "quality_breakdown": {
+      "readability": 36.5,
+      "placement": 64.2,
+      "composition": 62.4,
+      "harmony": 100.0,
+      "copy": 65.0
+    }
+  },
+  "created_at": "2026-03-18T20:43:58.351558",
+  "metadata": {
+    "test_id": "abtest_1773846586_05e579",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

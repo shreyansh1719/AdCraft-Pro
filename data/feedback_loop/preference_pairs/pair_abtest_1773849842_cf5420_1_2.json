@@ -1,0 +1,93 @@
+{
+  "pair_id": "pair_abtest_1773849842_cf5420_1_2",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Omega Speedmaster Moonwatch",
+  "score_difference": 18.4,
+  "preferred": {
+    "variant_id": "v3_d078",
+    "composite_score": 75.5,
+    "grade": "B+",
+    "creative_brief": {
+      "tone": "sophisticated, aspirational, authoritative, and timeless",
+      "visual_style": "Clean, sharp imagery that evokes a sense of grandeur and innovation, featuring imagery of space and the moon to reinforce the product's unique heritage",
+      "conceptual_technique": "Storytelling through cinematic visuals and aspirational narratives focusing on the brand's historical space exploration achievements",
+      "emotion": "awe, pride, nostalgia, and aspiration",
+      "typography_style": "Elegant serif with high contrast, conveying luxury and tradition",
+      "color_scheme": "lunar silver, deep space black, and Earth blue",
+      "headline": "Time Flies Beyond the Atmosphere",
+      "call_to_action": "Explore the Legacy",
+      "ad_style": "Storytelling through cinematic visuals and aspirational narratives focusing on the brand's historical space exploration achievements",
+      "target_market": {
+        "demographics": {
+          "age": "35-55",
+          "gender": "male",
+          "income_level": "high-income",
+          "occupation": "professionals, executives, and entrepreneurs"
+        },
+        "psychographics": {
+          "lifestyle": "affluent and adventurous",
+          "values": "heritage, precision, and exclusivity",
+          "interests": "space exploration, horology, and luxury travel"
+        }
+      },
+      "key_benefits": [
+        "Iconic design linked to NASA's space missions",
+        "Superior craftsmanship with Swiss precision",
+        "Heritage and prestige associated with the Moonwatch legacy"
+      ],
+      "product_highlight": "The watch's historical significance as the first watch worn on the moon, reinforcing its status as a symbol of human achievement"
+    },
+    "quality_breakdown": {
+      "readability": 52.6,
+      "placement": 93.4,
+      "composition": 77.9,
+      "harmony": 100.0,
+      "copy": 72.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v1_36af",
+    "composite_score": 57.1,
+    "grade": "C",
+    "creative_brief": {
+      "tone": "Timeless, aspirational, sophisticated, and authoritative",
+      "visual_style": "Cinematic imagery emphasizing the watch's connection to the moon landing, using both historical footage and modern-day high-resolution photography to convey a sense of timeless elegance and adventure",
+      "conceptual_technique": "Heritage storytelling through high-impact visuals and emotionally resonant narratives, leveraging both digital platforms and prestige publications",
+      "emotion": "Awe, nostalgia, pride, aspiration",
+      "typography_style": "Classic serif with a modern twist, elegant and refined",
+      "color_scheme": "deep space black, lunar white, and celestial blue accents",
+      "headline": "TIME FLIES TO THE MOON",
+      "call_to_action": "Explore the Legacy Collection",
+      "ad_style": "Heritage storytelling through high-impact visuals and emotionally resonant narratives, leveraging both digital platforms and prestige publications",
+      "target_market": {
+        "demographics": "Affluent males aged 30-55, high-income brackets, often professionals or entrepreneurs",
+        "psychographics": "Individuals who value precision, heritage, and exclusivity; often collectors or enthusiasts of fine timepieces, with a keen interest in space exploration or horology"
+      },
+      "key_benefits": [
+        "Iconic design with historical significance as the first watch worn on the moon",
+        "Superior craftsmanship and high-precision Swiss engineering",
+        "Enduring investment value due to the brand's prestigious reputation"
+      ],
+      "product_highlight": "The Moonwatch's legacy as the only watch worn on all six moon landings, underscoring its historical prestige and unmatched durability"
+    },
+    "quality_breakdown": {
+      "readability": 43.7,
+      "placement": 35.7,
+      "composition": 70.7,
+      "harmony": 100.0,
+      "copy": 73.0
+    }
+  },
+  "created_at": "2026-03-18T21:39:06.166782",
+  "metadata": {
+    "test_id": "abtest_1773849842_cf5420",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}

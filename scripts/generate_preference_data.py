@@ -79,6 +79,17 @@ PRODUCTS = [
     {"prompt": "Dyson Airwrap multi-styler", "brand": "Dyson", "industry": "beauty_tech"},
     {"prompt": "Levi's 501 original fit jeans", "brand": "Levi's", "industry": "fashion"},
     {"prompt": "Nespresso Vertuo Pop coffee machine", "brand": "Nespresso", "industry": "appliances"},
+    # New for v3 — expanded to 20 products for stronger statistical power
+    {"prompt": "Adidas Samba OG retro sneakers", "brand": "Adidas", "industry": "sportswear"},
+    {"prompt": "Porsche 911 GT3 RS sports car", "brand": "Porsche", "industry": "automotive"},
+    {"prompt": "Coca-Cola Original classic beverage", "brand": "Coca-Cola", "industry": "food_beverage"},
+    {"prompt": "Samsung Galaxy S25 Ultra smartphone", "brand": "Samsung", "industry": "technology"},
+    {"prompt": "Patagonia Nano Puff outdoor jacket", "brand": "Patagonia", "industry": "outdoor"},
+    {"prompt": "Glossier Cloud Paint blush", "brand": "Glossier", "industry": "beauty"},
+    {"prompt": "Heineken Silver premium lager", "brand": "Heineken", "industry": "food_beverage"},
+    {"prompt": "IKEA KALLAX shelf unit", "brand": "IKEA", "industry": "furniture"},
+    {"prompt": "Arc'teryx Alpha SV hardshell jacket", "brand": "Arc'teryx", "industry": "outdoor"},
+    {"prompt": "Omega Speedmaster Moonwatch", "brand": "Omega", "industry": "luxury"},
 ]
 
 

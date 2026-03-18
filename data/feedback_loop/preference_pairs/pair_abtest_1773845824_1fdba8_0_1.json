@@ -1,0 +1,103 @@
+{
+  "pair_id": "pair_abtest_1773845824_1fdba8_0_1",
+  "source": "ab_test_quality_score",
+  "product_prompt": "Oatly oat milk dairy alternative",
+  "score_difference": 15.4,
+  "preferred": {
+    "variant_id": "v2_6a6f",
+    "composite_score": 84.2,
+    "grade": "A-",
+    "creative_brief": {
+      "tone": "Playful, Quirky, Authentic, and Friendly",
+      "visual_style": "Minimalist design with bold, eye-catching graphics and playful illustrations that enhance the eco-friendly, innovative, and approachable brand ethos.",
+      "conceptual_technique": "Social media-centric campaigns focusing on engaging content and user-generated storytelling, combined with influencer partnerships to leverage credibility and reach.",
+      "emotion": "Joy, Trust, Curiosity, and Sustainability",
+      "typography_style": "Bold, chunky hand-drawn fonts that convey a casual and approachable personality.",
+      "color_scheme": "Oatmeal beige, earthy green, and creamy white to reflect natural and organic qualities.",
+      "headline": "JUST ADD OATS.",
+      "call_to_action": "Explore Recipes",
+      "ad_style": "Social media-centric campaigns focusing on engaging content and user-generated storytelling, combined with influencer partnerships to leverage credibility and reach.",
+      "target_market": {
+        "demographics": {
+          "age": "18-35",
+          "gender": "All genders",
+          "income": "Middle to Upper-middle class",
+          "location": "Urban and Suburban Areas"
+        },
+        "psychographics": {
+          "lifestyle": "Health-conscious, environmentally aware, trendsetters",
+          "values": "Sustainability, animal welfare, and innovation",
+          "behavior": "Early adopters of plant-based diets, frequent online shoppers"
+        }
+      },
+      "key_benefits": [
+        "Sustainably sourced and environmentally friendly",
+        "Rich, creamy texture that closely mimics dairy milk",
+        "High in nutritional value with added vitamins",
+        "Versatile use in cooking and beverages",
+        "Widely recognized and trusted brand in plant-based category"
+      ],
+      "product_highlight": "Highlight the product's environmental impact, emphasizing OATLY's carbon footprint reduction and sustainable sourcing practices."
+    },
+    "quality_breakdown": {
+      "readability": 86.2,
+      "placement": 99.7,
+      "composition": 64.2,
+      "harmony": 90.0,
+      "copy": 77.0
+    }
+  },
+  "non_preferred": {
+    "variant_id": "v3_4dbf",
+    "composite_score": 68.8,
+    "grade": "B-",
+    "creative_brief": {
+      "tone": "Quirky, approachable, and environmentally conscious with a touch of irreverence",
+      "visual_style": "Playful yet minimalistic design using bold, hand-drawn illustrations and clean layouts that evoke a sense of authenticity and eco-friendliness",
+      "conceptual_technique": "Digital-first approach with an emphasis on social media storytelling and influencer partnerships, leveraging humorous and engaging content to foster a community around the brand",
+      "emotion": "Amusement, curiosity, and a sense of belonging",
+      "typography_style": "Hand-drawn, bold, and slightly irregular to maintain a natural and approachable feel",
+      "color_scheme": "Earthy oat beige, alien green, and cosmic black",
+      "headline": "Oat of This World!",
+      "call_to_action": "Explore Now",
+      "ad_style": "Digital-first approach with an emphasis on social media storytelling and influencer partnerships, leveraging humorous and engaging content to foster a community around the brand",
+      "target_market": {
+        "demographics": {
+          "age_range": "18-35",
+          "gender": "All genders",
+          "income_level": "Middle to upper-middle class",
+          "geographic_location": "Urban and suburban areas"
+        },
+        "psychographics": {
+          "lifestyle": "Health-conscious, environmentally aware, trendsetters",
+          "values": "Sustainability, wellness, innovation"
+        }
+      },
+      "key_benefits": [
+        "Environmentally sustainable production",
+        "Nutritionally rich with added vitamins and minerals",
+        "Versatile for various dietary needs"
+      ],
+      "product_highlight": "OATLY's commitment to sustainability and minimal environmental impact"
+    },
+    "quality_breakdown": {
+      "readability": 52.9,
+      "placement": 62.0,
+      "composition": 79.8,
+      "harmony": 93.3,
+      "copy": 81.0
+    }
+  },
+  "created_at": "2026-03-18T20:31:06.202686",
+  "metadata": {
+    "test_id": "abtest_1773845824_1fdba8",
+    "num_variants": 3,
+    "scoring_weights": {
+      "readability": 0.3,
+      "placement": 0.25,
+      "composition": 0.2,
+      "harmony": 0.1,
+      "copy": 0.15
+    }
+  }
+}
