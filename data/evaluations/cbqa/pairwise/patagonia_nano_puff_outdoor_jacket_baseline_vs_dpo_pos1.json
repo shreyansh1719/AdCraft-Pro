@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Light as Air. Tough as Nature.' is more concise, brand-specific, and effectively captures the essence of the product's lightweight and durable features."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_2",
+    "reason": "The caption in Brief 2 describes a more original and imaginative visual scene with the jacket floating down from the sky, which is both concrete and producible."
+  },
+  "strategic_thinking": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 demonstrates a more coherent advertising technique by clearly linking the product's features to the lifestyle aspiration of adventure and sustainability."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better matches Patagonia's brand voice and market position with its focus on sustainability, adventure, and the use of earthy colors."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more aligned with Patagonia's brand values, offers a clear and compelling message, and presents a coherent visual and strategic approach."
+  },
+  "position": 1,
+  "brief1_model": "baseline",
+  "brief2_model": "dpo",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "product": "Patagonia Nano Puff outdoor jacket"
+}

@@ -1,0 +1,29 @@
+{
+  "product": {
+    "prompt": "Chanel No. 5 perfume fragrance",
+    "brand": "Chanel",
+    "product": "No. 5 perfume fragrance"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Chanel\nProduct type: No. 5 perfume fragrance\nTone: elegant, timeless, luxurious\nVisual style: A minimalist yet opulent visual style featuring classic black and white contrasts with gold accents, emphasizing sophistication and heritage.\nConceptual technique: iconic celebrity endorsement with aspirational storytelling\nFormat: image",
+  "brief": {
+    "brand": "Chanel",
+    "product": "No. 5 perfume fragrance",
+    "tone": "elegant, timeless, luxurious",
+    "visual_style": "Minimalist yet opulent visual style featuring classic black and white contrasts with gold accents, emphasizing sophistication and heritage.",
+    "conceptual_technique": "Iconic celebrity endorsement with aspirational storytelling",
+    "format": "image",
+    "headline": "Timeless Elegance, Immortalized",
+    "body_copy": "Experience the essence of luxury with Chanel No. 5, the fragrance that transcends generations. Embrace the allure that captivated legends and continues to inspire elegance today.",
+    "call_to_action": "Discover your legacy with Chanel No. 5.",
+    "visual_direction": {
+      "layout": "Centered composition with a black and white portrait of a renowned iconic celebrity known for timeless elegance, subtly overlaid with a golden Chanel No. 5 bottle. The background is stark white to highlight contrasts.",
+      "color_palette": "Monochrome black and white with strategic gold accents on the perfume bottle and text highlights.",
+      "typography": "Classic serif font in gold for the headline and call to action, simple sans-serif in black for body copy to balance sophistication with readability.",
+      "imagery": "Use a high-contrast, elegant black and white photograph of the celebrity in a classic pose that conveys grace and timeless beauty. The Chanel No. 5 bottle should be realistically rendered with a luminous gold sheen, positioned prominently but harmoniously within the frame.",
+      "branding": "Chanel logo positioned at the bottom center in gold, balanced with minimal legal copy in small, unobtrusive font."
+    }
+  },
+  "generated_at": "2026-03-19T01:58:56.280306"
+}

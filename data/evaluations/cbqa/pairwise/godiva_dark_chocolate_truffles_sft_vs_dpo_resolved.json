@@ -1,0 +1,29 @@
+{
+  "product": "Godiva Dark Chocolate Truffles",
+  "slug": "godiva_dark_chocolate_truffles",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "sft",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "UNSTABLE",
+      "stable": false
+    }
+  }
+}

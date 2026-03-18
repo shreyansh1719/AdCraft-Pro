@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Glossier Cloud Paint blush",
+    "brand": "Glossier",
+    "product": "Cloud Paint blush"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Glossier\nProduct type: Cloud Paint blush\nTone: fresh, approachable, youthful\nVisual style: Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.\nConceptual technique: authentic user-generated content showcasing real people in everyday moments\nFormat: image",
+  "brief": {
+    "headline": "Blush Rush: Swipe, Smile, Repeat",
+    "caption": "A candid shot of a diverse group of friends casually applying Cloud Paint blush in a sunlit cafe, capturing spontaneous laughter and glowing skin as they pass the compact around the table.",
+    "tone": "fresh, approachable, youthful",
+    "visual_style": "Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.",
+    "conceptual_technique": "authentic user-generated content showcasing real people in everyday moments",
+    "call_to_action": "Find your shade @glossier",
+    "emotion": "joy, confidence, camaraderie",
+    "typography_style": "Rounded sans-serif with a hand-written feel for a personal touch",
+    "color_scheme": "peachy pinks, soft corals, and muted blush tones"
+  },
+  "generated_at": "2026-03-19T02:03:46.522716"
+}

@@ -1,0 +1,29 @@
+{
+  "product": "Patagonia Nano Puff outdoor jacket",
+  "slug": "patagonia_nano_puff_outdoor_jacket",
+  "model_a": "baseline",
+  "model_b": "sft",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

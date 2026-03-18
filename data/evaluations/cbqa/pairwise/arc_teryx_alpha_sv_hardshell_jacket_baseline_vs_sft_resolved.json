@@ -1,0 +1,28 @@
+{
+  "product": "Arc'teryx Alpha SV hardshell jacket",
+  "slug": "arc_teryx_alpha_sv_hardshell_jacket",
+  "model_a": "baseline",
+  "model_b": "sft",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "sft",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

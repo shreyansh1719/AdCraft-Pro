@@ -1,0 +1,30 @@
+{
+  "product": {
+    "prompt": "Patagonia Nano Puff outdoor jacket",
+    "brand": "Patagonia",
+    "product": "Nano Puff outdoor jacket"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Patagonia\nProduct type: Nano Puff outdoor jacket\nTone: adventurous, authentic, sustainable\nVisual style: Clean, natural outdoor settings with vibrant yet earthy colors highlighting the jacket's lightweight and eco-friendly features.\nConceptual technique: lifestyle aspiration storytelling\nFormat: image",
+  "brief": {
+    "brand": "Patagonia",
+    "product": "Nano Puff Outdoor Jacket",
+    "tone": "adventurous, authentic, sustainable",
+    "visual_style": "Clean, natural outdoor settings with vibrant yet earthy colors highlighting the jacket's lightweight and eco-friendly features",
+    "conceptual_technique": "lifestyle aspiration storytelling",
+    "format": "image",
+    "headline": "Light as Air. Tough as Nature.",
+    "body_copy": "Discover the freedom of adventure with the Patagonia Nano Puff Jacket. Engineered with sustainable insulation and designed for lightweight warmth, it\u2019s the perfect companion for every trail, summit, and journey. Embrace the wild responsibly\u2014your next adventure starts here.",
+    "call_to_action": "Explore the Nano Puff Collection",
+    "visual_direction": {
+      "setting": "A pristine mountain landscape during golden hour, featuring a hiker pausing at a scenic overlook.",
+      "model": "An adventurer wearing the Nano Puff jacket, mid-motion, with a genuine, confident expression, capturing authenticity.",
+      "colors": "Earthy tones of greens, browns, and soft oranges with the Nano Puff\u2019s vibrant color subtly standing out.",
+      "composition": "The jacket is the visual focus, contrasting naturally against the environment. The image conveys motion and lightness, with natural elements like trees, rocks, and sky framing the subject.",
+      "textures": "Highlight the jacket\u2019s texture through close-up insets showing its lightweight, quilted insulation made from recycled materials.",
+      "branding": "Subtle Patagonia logo visible on the jacket with an unobtrusive but clear brand credit line at the bottom."
+    }
+  },
+  "generated_at": "2026-03-19T02:03:09.833877"
+}

@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline '501 Originals: Denim's Timeless Anthem' is more brand-specific and attention-grabbing, emphasizing the iconic status of the 501 jeans."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "The scene of a vintage motorcycle against a weathered brick wall is more original and visually striking than the more common cowboy imagery."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ heritage storytelling and lifestyle authenticity effectively, with no clear advantage in strategic coherence."
+  },
+  "brand_alignment": {
+    "winner": "TIE",
+    "reason": "Both briefs align well with Levi's brand voice, colors, and market position, focusing on Americana and rugged authenticity."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 offers a more distinctive visual concept and a stronger headline, making it the more compelling choice overall."
+  },
+  "position": 1,
+  "brief1_model": "sft",
+  "brief2_model": "dpo",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "product": "Levi's 501 Original jeans"
+}

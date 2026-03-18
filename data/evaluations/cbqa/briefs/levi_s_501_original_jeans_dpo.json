@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Levi's 501 Original jeans",
+    "brand": "Levi's",
+    "product": "501 Original jeans"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Levi's\nProduct type: 501 Original jeans\nTone: authentic, classic, rugged\nVisual style: Clean, vintage-inspired imagery with a focus on denim texture and timeless Americana aesthetics.\nConceptual technique: heritage storytelling with lifestyle authenticity\nFormat: image",
+  "brief": {
+    "headline": "Buttoned Up Since '46",
+    "caption": "A timeless shot of a young cowboy leaning against a rustic wooden fence, his 501 jeans dusted with the earth, capturing the spirit of Americana and rugged individuality.",
+    "tone": "authentic, classic, rugged",
+    "visual_style": "Clean, vintage-inspired imagery with a focus on denim texture and timeless Americana aesthetics.",
+    "conceptual_technique": "heritage storytelling with lifestyle authenticity",
+    "call_to_action": "Find Your Fit at Levi's",
+    "emotion": "pride, nostalgia, authenticity",
+    "typography_style": "Bold slab serif with a vintage touch, reminiscent of old Americana signage",
+    "color_scheme": "Indigo blue, rustic brown, and crisp white"
+  },
+  "generated_at": "2026-03-19T02:01:08.409707"
+}

@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Sony PlayStation 5 Pro gaming console",
+    "brand": "Sony",
+    "product": "PlayStation 5 Pro gaming console"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Sony\nProduct type: PlayStation 5 Pro gaming console\nTone: innovative, dynamic, premium\nVisual style: Futuristic and sleek design with bold contrasts and vibrant lighting to emphasize cutting-edge technology and immersive gaming experience.\nConceptual technique: high-energy experiential storytelling\nFormat: image",
+  "brief": {
+    "headline": "Level Up Reality.",
+    "caption": "A high-energy scene where a gamer is surrounded by a 360-degree holographic display of a virtual world, with the PS5 Pro console glowing futuristic blue on the desk, casting dynamic shadows across the room.",
+    "tone": "innovative, dynamic, premium",
+    "visual_style": "Futuristic and sleek design with bold contrasts and vibrant lighting to emphasize cutting-edge technology and immersive gaming experience.",
+    "conceptual_technique": "high-energy experiential storytelling",
+    "call_to_action": "Experience the Next Dimension with PS5 Pro",
+    "emotion": "excitement, awe, empowerment",
+    "typography_style": "Futuristic sans-serif with a metallic finish, conveying speed and modernity",
+    "color_scheme": "electric blue, jet black, and silver accents"
+  },
+  "generated_at": "2026-03-19T01:59:43.083577"
+}

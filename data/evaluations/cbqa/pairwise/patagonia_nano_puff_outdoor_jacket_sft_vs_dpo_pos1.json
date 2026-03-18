@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Layer Up Without Weighing Down' is more concise and directly communicates the product's lightweight feature, which is a key selling point for outdoor gear."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "The caption in Brief 1 provides a more vivid and producible visual scene by placing the hiker at the edge of a misty mountain cliff, which is a classic and compelling outdoor imagery."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ lifestyle aspiration storytelling and emphasize the product's lightweight and eco-friendly features, demonstrating a coherent advertising technique with strong product fit."
+  },
+  "brand_alignment": {
+    "winner": "TIE",
+    "reason": "Both briefs align well with Patagonia's brand voice, emphasizing sustainability and adventure, and use the brand's signature color palette effectively."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 offers a more compelling headline and visual concept, making it the stronger choice for an ad that effectively communicates the product's benefits and aligns with the brand's identity."
+  },
+  "position": 1,
+  "brief1_model": "sft",
+  "brief2_model": "dpo",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "product": "Patagonia Nano Puff outdoor jacket"
+}

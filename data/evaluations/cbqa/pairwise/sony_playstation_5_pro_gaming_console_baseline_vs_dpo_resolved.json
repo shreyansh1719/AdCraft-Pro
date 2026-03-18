@@ -1,0 +1,28 @@
+{
+  "product": "Sony PlayStation 5 Pro gaming console",
+  "slug": "sony_playstation_5_pro_gaming_console",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Coca-Cola Original classic beverage",
+    "brand": "Coca-Cola",
+    "product": "Original classic beverage"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Coca-Cola\nProduct type: Original classic beverage\nTone: refreshing, nostalgic, authentic\nVisual style: Bold red and white color palette with classic typography and vibrant, energetic imagery that evokes happiness and togetherness.\nConceptual technique: emotional storytelling centered on shared moments and timeless enjoyment\nFormat: image",
+  "brief": {
+    "headline": "Sip of the Past",
+    "caption": "A group of friends gathers around a vintage jukebox in a retro diner, each reaching for a glass bottle of Coca-Cola filled with ice, capturing a timeless moment of joy and camaraderie.",
+    "tone": "refreshing, nostalgic, authentic",
+    "visual_style": "Bold red and white color palette with classic typography and vibrant, energetic imagery that evokes happiness and togetherness.",
+    "conceptual_technique": "emotional storytelling centered on shared moments and timeless enjoyment",
+    "call_to_action": "Rediscover the Classic",
+    "emotion": "happiness, nostalgia, belonging",
+    "typography_style": "Iconic Spencerian script with dynamic, flowing curves",
+    "color_scheme": "Coca-Cola red, crisp white, and vintage chrome accents"
+  },
+  "generated_at": "2026-03-19T02:02:47.863518"
+}

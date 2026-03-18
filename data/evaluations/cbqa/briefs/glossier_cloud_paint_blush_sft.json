@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Glossier Cloud Paint blush",
+    "brand": "Glossier",
+    "product": "Cloud Paint blush"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Glossier\nProduct type: Cloud Paint blush\nTone: fresh, approachable, youthful\nVisual style: Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.\nConceptual technique: authentic user-generated content showcasing real people in everyday moments\nFormat: image",
+  "brief": {
+    "headline": "Blush Rush: Captured in the Cloud",
+    "caption": "Real people apply Cloud Paint blush in spontaneous, candid moments\u2014on a subway, in a caf\u00e9, or during a video call\u2014highlighting its ease of use and natural finish.",
+    "tone": "fresh, approachable, youthful",
+    "visual_style": "Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.",
+    "conceptual_technique": "authentic user-generated content showcasing real people in everyday moments",
+    "call_to_action": "Explore Shades",
+    "emotion": "self-expression, confidence, authenticity",
+    "typography_style": "Clean, rounded sans-serif with a handwritten touch for authenticity",
+    "color_scheme": "soft pinks, corals, and muted blush tones with Glossier's signature white"
+  },
+  "generated_at": "2026-03-19T02:03:41.046624"
+}

@@ -1,0 +1,28 @@
+{
+  "product": "Apple AirPods Pro wireless earbuds",
+  "slug": "apple_airpods_pro_wireless_earbuds",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "overall": {
+      "winner": "UNSTABLE",
+      "stable": false
+    }
+  }
+}

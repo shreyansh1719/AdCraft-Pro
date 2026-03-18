@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Shell of a Different Weather' is more brand-specific and attention-grabbing due to its clever play on words and concise nature."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "The caption in Brief 1 provides a more vivid and producible visual scene with the vibrant red jacket standing out against the monochrome icy cliffs."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ authentic adventure storytelling and highlight the product's performance-driven nature, making them equally strong in strategic thinking."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better aligns with Arc'teryx's brand voice and color scheme, using the brand's signature red and a tone that emphasizes premium ruggedness."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more cohesive in its brand alignment, visual concept, and headline, making it the stronger choice for a single ad production."
+  },
+  "position": 2,
+  "brief1_model": "dpo",
+  "brief2_model": "sft",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "product": "Arc'teryx Alpha SV hardshell jacket"
+}

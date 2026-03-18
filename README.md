@@ -130,12 +130,44 @@ Models are statistically equivalent in quality. SFT's value is reliability: 100%
 
 | Product | Score | Grade | Headline |
 |---------|-------|-------|---------|
-| Tesla Model S | 86.9 | A | "Drive the Future Today" |
-| Sony PS5 Pro | 79.6 | B+ | "Level Up Reality" |
-| Porsche 911 GT3 RS | 78.1 | B+ | "Unleash the Asphalt Symphony" |
-| Dyson Airwrap | 76.0 | B+ | "Style Without the Heat Waves" |
-| IKEA KALLAX | 76.0 | B+ | "Shelf Improvement Stories" |
-| Chanel No. 5 | 73.8 | B | "Timeless Elegance" |
+| Sony PS5 Pro | 82.7 | A- | "Play Has No Limits." |
+| Rolex Submariner | 78.7 | B+ | "Legendary Precision" |
+| Porsche 911 GT3 RS | 78.1 | B+ | "Unleash the Symphony of Speed" |
+| IKEA KALLAX | 76.0 | B+ | "Shelf-Improvised Living" |
+| Tesla Model S | 74.5 | B | "Beyond Ludicrous" |
+| Chanel No. 5 | 73.8 | B | "The Fifth Element of Elegance" |
+
+---
+
+### Creative Brief Quality Assessment (CBQA)
+
+To isolate and measure the fine-tuned model's actual output quality independent of downstream image generation and HTML rendering, we implemented a 7-dimension, 18-sub-metric evaluation framework using GPT-4o as judge with chain-of-thought reasoning (G-Eval methodology, n=25 products).
+
+| Model | CBQA Score | Headline | Caption | Strategy | Tone | Visual Style | CTA | Production |
+|-------|-----------|----------|---------|----------|------|-------------|-----|------------|
+| Baseline | 73.2 +/- 6.4 | 63.2 | 85.7 | 75.0 | 89.0 | 53.5 | 86.0 | 63.0 |
+| SFT v3 | 74.1 +/- 4.4 | 68.7 | 82.1 | 74.0 | 88.0 | 42.0 | 91.0 | 79.0 |
+| SFT+DPO v3 | 73.6 +/- 4.2 | 69.8 | 80.9 | 74.7 | 87.0 | 38.5 | 92.0 | 77.0 |
+
+*Scores normalized within each dimension (raw/max x 100). SFT/DPO score higher on Headline (+6.6 pts) and Production Specs (+16 pts). Baseline scores higher on Caption Originality (+4 pts) and Visual Style (+15 pts).*
+
+**Key finding:** All three models score statistically equivalently overall (Baseline vs SFT+DPO: delta=+0.35 pts, p=0.82, n.s.). **The fine-tuned model's primary advantage is consistency** — standard deviation drops from 6.4 (baseline) to 4.2 (SFT+DPO), meaning fewer creative failures. Fine-tuning also improves structured output reliability: 100% valid JSON vs occasional format failures from the baseline.
+
+**Pairwise evaluation (SFT+DPO vs Baseline, n=25, 2 position swaps):**
+
+| Dimension | DPO Win Rate | p-value |
+|-----------|-------------|---------|
+| Headline | 0% | n.s. |
+| Visual Concept | 68.8% | 0.105 (n.s.) |
+| Strategic Thinking | 0% | n.s. |
+| Brand Alignment | 8% | n.s. |
+| Overall | 0% | n.s. |
+
+*Baseline dominates pairwise overall — GPT-4o judges prefer the baseline's more expansive writing style in direct comparison. This diverges from pointwise rubric scores because pairwise compares stylistic preferences rather than rubric compliance. The fine-tuned model produces tighter, more concise briefs that score well on rubric criteria but lose in stylistic head-to-head.*
+
+**Reliability:** Pearson r=0.75 between duplicate judge runs, MAD=3.0 pts — acceptable inter-run consistency.
+
+*CBQA evaluates the creative brief directly — headline creativity, visual scene specificity, strategic technique, brand alignment, typography, and color recommendations — without confounding from image generation quality or HTML rendering.*
 
 ---
 

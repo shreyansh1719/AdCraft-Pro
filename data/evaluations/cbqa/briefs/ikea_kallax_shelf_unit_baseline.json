@@ -1,0 +1,32 @@
+{
+  "product": {
+    "prompt": "IKEA KALLAX shelf unit",
+    "brand": "IKEA",
+    "product": "KALLAX shelf unit"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: IKEA\nProduct type: KALLAX shelf unit\nTone: functional, approachable, modern\nVisual style: Clean, minimalist visuals with bright, natural lighting emphasizing simplicity and versatility.\nConceptual technique: practical lifestyle demonstration\nFormat: image",
+  "brief": {
+    "brand": "IKEA",
+    "product": "KALLAX shelf unit",
+    "tone": "functional, approachable, modern",
+    "visualStyle": "Clean, minimalist visuals with bright, natural lighting emphasizing simplicity and versatility",
+    "conceptualTechnique": "practical lifestyle demonstration",
+    "format": "image",
+    "headline": "Organize Your Life, Your Way",
+    "subHeadline": "The KALLAX shelf unit adapts to every space and style",
+    "bodyCopy": "Discover a storage solution as flexible as your lifestyle. With KALLAX, create a neat, stylish space that works for you\u2014whether it's books, plants, or keepsakes. Easy to assemble, easy to love.",
+    "callToAction": "Explore KALLAX at IKEA today",
+    "visualDirection": {
+      "setting": "Bright, airy living room with natural light pouring through large windows",
+      "composition": "KALLAX shelf unit neatly organized with a mix of books, decorative boxes, plants, and everyday items, positioned centrally",
+      "colorPalette": "Neutral tones with pops of green from plants and colorful storage boxes",
+      "style": "Minimalist, clean lines, uncluttered background",
+      "lighting": "Soft, natural daylight highlighting the texture and finishes of the shelf unit",
+      "props": "Functional lifestyle elements such as a cozy chair, a small desk nearby, a coffee mug",
+      "model": "No people, focus on lifestyle objects to keep it universally approachable"
+    }
+  },
+  "generated_at": "2026-03-19T02:04:10.165336"
+}

@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Samsung Galaxy S25 Ultra smartphone",
+    "brand": "Samsung",
+    "product": "Galaxy S25 Ultra smartphone"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Samsung\nProduct type: Galaxy S25 Ultra smartphone\nTone: innovative, premium, cutting-edge\nVisual style: Sleek, futuristic visuals with a focus on high-tech details and vibrant, dynamic lighting to emphasize advanced features.\nConceptual technique: technology-driven experiential storytelling\nFormat: image",
+  "brief": {
+    "headline": "Ultra Visionaries",
+    "caption": "A futuristic cityscape at night, captured in ultra-high definition by the Galaxy S25 Ultra's camera. The phone floats above the scene, its screen displaying a live feed of the vibrant lights and intricate details of the urban landscape, showcasing its cutting-edge photography capabilities.",
+    "tone": "innovative, premium, cutting-edge",
+    "visual_style": "Sleek, futuristic visuals with a focus on high-tech details and vibrant, dynamic lighting to emphasize advanced features.",
+    "conceptual_technique": "technology-driven experiential storytelling",
+    "call_to_action": "Explore the future with Galaxy S25 Ultra",
+    "emotion": "awe, curiosity, empowerment",
+    "typography_style": "Modern, ultra-thin sans-serif with a sleek and futuristic feel, subtly glowing to enhance the tech vibe.",
+    "color_scheme": "Galaxy-inspired deep space black, cosmic purple, and starlight silver accents"
+  },
+  "generated_at": "2026-03-19T02:03:01.157296"
+}

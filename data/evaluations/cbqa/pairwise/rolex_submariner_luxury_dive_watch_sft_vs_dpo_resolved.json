@@ -1,0 +1,28 @@
+{
+  "product": "Rolex Submariner luxury dive watch",
+  "slug": "rolex_submariner_luxury_dive_watch",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "sft",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "overall": {
+      "winner": "UNSTABLE",
+      "stable": false
+    }
+  }
+}

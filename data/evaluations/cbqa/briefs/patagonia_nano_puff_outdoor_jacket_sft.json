@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Patagonia Nano Puff outdoor jacket",
+    "brand": "Patagonia",
+    "product": "Nano Puff outdoor jacket"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Patagonia\nProduct type: Nano Puff outdoor jacket\nTone: adventurous, authentic, sustainable\nVisual style: Clean, natural outdoor settings with vibrant yet earthy colors highlighting the jacket's lightweight and eco-friendly features.\nConceptual technique: lifestyle aspiration storytelling\nFormat: image",
+  "brief": {
+    "headline": "Layer Up Without Weighing Down",
+    "caption": "A hiker stands at the edge of a misty mountain cliff, the lightweight Nano Puff jacket visibly puffed against the morning chill, blending seamlessly with the rugged landscape.",
+    "tone": "adventurous, authentic, sustainable",
+    "visual_style": "Clean, natural outdoor settings with vibrant yet earthy colors highlighting the jacket's lightweight and eco-friendly features.",
+    "conceptual_technique": "lifestyle aspiration storytelling",
+    "call_to_action": "Explore the Nano Puff Collection",
+    "emotion": "freedom, resilience, environmental consciousness",
+    "typography_style": "Bold, condensed slab serif with a rugged texture treatment",
+    "color_scheme": "Patagonia's signature deep navy, forest green, and sunset orange"
+  },
+  "generated_at": "2026-03-19T02:03:12.010669"
+}

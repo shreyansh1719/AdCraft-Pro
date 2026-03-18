@@ -1,0 +1,33 @@
+{
+  "product": {
+    "prompt": "Godiva Dark Chocolate Truffles",
+    "brand": "Godiva",
+    "product": "Dark Chocolate Truffles"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Godiva\nProduct type: Dark Chocolate Truffles\nTone: luxurious, indulgent, elegant\nVisual style: Rich, dark hues with gold accents and close-up shots highlighting the smooth texture and glossy finish of the truffles.\nConceptual technique: sensory indulgence storytelling\nFormat: image",
+  "brief": {
+    "brand": "Godiva",
+    "product": "Dark Chocolate Truffles",
+    "objective": "To position Godiva Dark Chocolate Truffles as the ultimate luxurious and indulgent treat for discerning chocolate lovers.",
+    "target_audience": "Affluent adults aged 25-45 who appreciate premium quality chocolates and seek an elegant indulgence experience.",
+    "tone_and_manner": "Luxurious, indulgent, elegant",
+    "key_message": "Experience the sumptuous richness and velvety smoothness of Godiva Dark Chocolate Truffles \u2014 a sensory indulgence that transcends ordinary chocolate.",
+    "visual_direction": {
+      "color_palette": "Rich, dark hues such as deep browns and blacks with sophisticated gold accents.",
+      "imagery": "Close-up, macro shots of the truffles showcasing their smooth texture and glossy finish, emphasizing the craftsmanship and premium quality.",
+      "lighting": "Soft, warm lighting to enhance the richness and luxurious feel, highlighting the glossy surfaces and intricate details.",
+      "composition": "Minimalistic and elegant layout with the truffles as the clear focal point, gold foil Godiva logo subtly integrated, and a dark, textured background to enhance depth and sophistication."
+    },
+    "conceptual_technique": "Sensory indulgence storytelling through visual cues that evoke the tactile and taste sensations of savoring the truffles.",
+    "copy": {
+      "headline": "Indulge in Pure Elegance",
+      "subheadline": "Godiva Dark Chocolate Truffles \u2014 A Symphony of Richness and Silk",
+      "body": "Surrender to the decadent embrace of our handcrafted dark chocolate truffles, where every bite unfolds layers of velvety smoothness and intense cocoa richness. Crafted for those who seek the art of indulgence.",
+      "call_to_action": "Discover the luxury at Godiva.com"
+    },
+    "format": "Image"
+  },
+  "generated_at": "2026-03-19T02:05:04.170484"
+}

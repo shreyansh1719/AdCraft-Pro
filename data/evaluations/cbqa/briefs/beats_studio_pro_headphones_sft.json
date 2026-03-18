@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Beats Studio Pro headphones",
+    "brand": "Beats",
+    "product": "Studio Pro headphones"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Beats\nProduct type: Studio Pro headphones\nTone: bold, energetic, premium\nVisual style: Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors.\nConceptual technique: dynamic lifestyle aspiration showcasing music immersion and creative expression.\nFormat: image",
+  "brief": {
+    "headline": "Soundtrack of the Unstoppable",
+    "caption": "A high-energy scene where a dancer's every move creates visible sound waves that ripple through the air, enveloping her in a vibrant, colorful aura. The Beats Studio Pro headphones rest confidently on her ears, glowing subtly under the spotlight as the crowd around her is lost in the music.",
+    "tone": "bold, energetic, premium",
+    "visual_style": "Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors.",
+    "conceptual_technique": "dynamic lifestyle aspiration showcasing music immersion and creative expression.",
+    "call_to_action": "Elevate Your Sound Experience",
+    "emotion": "excitement, empowerment, passion",
+    "typography_style": "Bold, italicized sans-serif conveying motion and strength",
+    "color_scheme": "Beats signature red, sleek black, and electric blue accents"
+  },
+  "generated_at": "2026-03-19T02:06:08.592516"
+}

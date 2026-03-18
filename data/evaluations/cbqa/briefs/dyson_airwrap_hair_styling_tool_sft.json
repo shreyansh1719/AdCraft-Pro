@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Dyson Airwrap hair styling tool",
+    "brand": "Dyson",
+    "product": "Airwrap hair styling tool"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Dyson\nProduct type: Airwrap hair styling tool\nTone: innovative, premium, empowering\nVisual style: Clean, modern visuals with sleek product shots emphasizing technology and effortless elegance.\nConceptual technique: demonstrative product storytelling\nFormat: image",
+  "brief": {
+    "headline": "Curl, Smooth, Dry \u2014 All in One Airflow.",
+    "caption": "A stylish bathroom setting where the Dyson Airwrap is mid-action, with hair elegantly styled in the air, showcasing its multifunctional capabilities against a backdrop of minimalistic design.",
+    "tone": "innovative, premium, empowering",
+    "visual_style": "Clean, modern visuals with sleek product shots emphasizing technology and effortless elegance.",
+    "conceptual_technique": "demonstrative product storytelling",
+    "call_to_action": "Discover effortless styling at Dyson.com",
+    "emotion": "confidence, sophistication, empowerment",
+    "typography_style": "Helvetica Neue, sleek and modern with fine lines",
+    "color_scheme": "Dyson's signature silver and purple with soft white accents"
+  },
+  "generated_at": "2026-03-19T02:00:31.487914"
+}

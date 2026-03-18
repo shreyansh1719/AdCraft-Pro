@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Adidas Samba OG retro sneakers",
+    "brand": "Adidas",
+    "product": "Samba OG retro sneakers"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Adidas\nProduct type: Samba OG retro sneakers\nTone: classic, authentic, sporty\nVisual style: A clean, vintage-inspired aesthetic with muted color palettes and nostalgic urban settings that highlight the sneaker's heritage.\nConceptual technique: heritage storytelling combined with lifestyle aspiration\nFormat: image",
+  "brief": {
+    "headline": "Step Back in Time.",
+    "caption": "A lone figure skateboards down a sun-dappled city street, the iconic three stripes of the Adidas Samba OG catching the eye against a backdrop of retro murals and vintage cars.",
+    "tone": "classic, authentic, sporty",
+    "visual_style": "A clean, vintage-inspired aesthetic with muted color palettes and nostalgic urban settings that highlight the sneaker's heritage.",
+    "conceptual_technique": "heritage storytelling combined with lifestyle aspiration",
+    "call_to_action": "Rediscover the Classic.",
+    "emotion": "nostalgia, pride, confidence",
+    "typography_style": "Bold yet understated serif with a vintage feel, reminiscent of 70s sports magazines.",
+    "color_scheme": "muted navy, crisp white, and subtle gum brown accents"
+  },
+  "generated_at": "2026-03-19T02:02:10.065197"
+}

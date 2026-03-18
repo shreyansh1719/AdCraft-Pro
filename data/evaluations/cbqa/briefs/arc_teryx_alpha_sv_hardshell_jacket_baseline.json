@@ -1,0 +1,33 @@
+{
+  "product": {
+    "prompt": "Arc'teryx Alpha SV hardshell jacket",
+    "brand": "Arc'teryx",
+    "product": "Alpha SV hardshell jacket"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Arc'teryx\nProduct type: Alpha SV hardshell jacket\nTone: rugged, performance-driven, premium\nVisual style: Clean, minimalist imagery highlighting technical details and extreme outdoor environments.\nConceptual technique: authentic adventure storytelling\nFormat: image",
+  "brief": {
+    "brand": "Arc'teryx",
+    "product": "Alpha SV hardshell jacket",
+    "objective": "Showcase the Alpha SV jacket as the ultimate high-performance outerwear for extreme conditions, emphasizing its rugged durability and premium quality.",
+    "target_audience": "Outdoor enthusiasts, mountaineers, and adventure seekers who demand reliable and technical gear.",
+    "key_message": "Engineered for the fiercest elements. The Alpha SV delivers unmatched protection and durability when it matters most.",
+    "tone": "Rugged, performance-driven, premium",
+    "visual_direction": {
+      "style": "Clean and minimalist",
+      "imagery": "A lone climber wearing the Alpha SV jacket navigating a stark, extreme alpine environment with snow, rock, and wind-blown textures. Close-up shots highlight technical features such as sealed seams, reinforced shoulders, and adjustable hoods.",
+      "color_palette": "Muted earth tones with pops of the jacket\u2019s signature color to draw attention.",
+      "composition": "Wide shots that convey scale and isolation, combined with tight detail shots of the jacket\u2019s construction."
+    },
+    "copy": {
+      "headline": "Alpha SV: Built for the Savage",
+      "subheadline": "Uncompromising protection. Unmatched performance.",
+      "body": "When the elements turn ruthless, trust the Alpha SV hardshell to keep you moving forward. Designed with cutting-edge materials and meticulous craftsmanship, this jacket stands up to the harshest conditions so you can conquer your next adventure.",
+      "call_to_action": "Explore the Alpha SV at arcteryx.com"
+    },
+    "format": "Image",
+    "conceptual_technique": "Authentic adventure storytelling through real environment immersion and technical focus."
+  },
+  "generated_at": "2026-03-19T02:04:30.237506"
+}

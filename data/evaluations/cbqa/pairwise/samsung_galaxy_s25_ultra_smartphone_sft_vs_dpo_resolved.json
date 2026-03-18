@@ -1,0 +1,28 @@
+{
+  "product": "Samsung Galaxy S25 Ultra smartphone",
+  "slug": "samsung_galaxy_s25_ultra_smartphone",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "sft",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "overall": {
+      "winner": "UNSTABLE",
+      "stable": false
+    }
+  }
+}

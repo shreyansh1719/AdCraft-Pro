@@ -1,0 +1,28 @@
+{
+  "product": "Tesla Model S electric sedan",
+  "slug": "tesla_model_s_electric_sedan",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "sft",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "sft",
+      "stable": true
+    },
+    "overall": {
+      "winner": "sft",
+      "stable": true
+    }
+  }
+}

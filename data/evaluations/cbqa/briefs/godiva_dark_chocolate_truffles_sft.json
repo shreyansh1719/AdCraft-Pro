@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Godiva Dark Chocolate Truffles",
+    "brand": "Godiva",
+    "product": "Dark Chocolate Truffles"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Godiva\nProduct type: Dark Chocolate Truffles\nTone: luxurious, indulgent, elegant\nVisual style: Rich, dark hues with gold accents and close-up shots highlighting the smooth texture and glossy finish of the truffles.\nConceptual technique: sensory indulgence storytelling\nFormat: image",
+  "brief": {
+    "headline": "Temptation in Every Bite",
+    "caption": "A luxurious scene where a delicate gold-rimmed porcelain plate holds an assortment of Godiva dark chocolate truffles, each with a glossy finish, under a soft spotlight that accentuates their rich texture. A velvet burgundy cloth drapes sensually in the background, with gold Godiva branding elegantly embossed on the side.",
+    "tone": "luxurious, indulgent, elegant",
+    "visual_style": "Rich, dark hues with gold accents and close-up shots highlighting the smooth texture and glossy finish of the truffles.",
+    "conceptual_technique": "sensory indulgence storytelling",
+    "call_to_action": "Indulge Today",
+    "emotion": "desire, sophistication, satisfaction",
+    "typography_style": "Elegant serif with delicate flourishes, reminiscent of calligraphy",
+    "color_scheme": "deep chocolate brown, luxurious gold, and opulent burgundy"
+  },
+  "generated_at": "2026-03-19T02:05:09.138311"
+}

@@ -1,0 +1,28 @@
+{
+  "product": "IKEA KALLAX shelf unit",
+  "slug": "ikea_kallax_shelf_unit",
+  "model_a": "baseline",
+  "model_b": "sft",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

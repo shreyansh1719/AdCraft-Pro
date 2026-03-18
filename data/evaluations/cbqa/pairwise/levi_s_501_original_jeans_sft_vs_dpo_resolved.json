@@ -1,0 +1,29 @@
+{
+  "product": "Levi's 501 Original jeans",
+  "slug": "levi_s_501_original_jeans",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "sft",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "dpo",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "UNSTABLE",
+      "stable": false
+    }
+  }
+}

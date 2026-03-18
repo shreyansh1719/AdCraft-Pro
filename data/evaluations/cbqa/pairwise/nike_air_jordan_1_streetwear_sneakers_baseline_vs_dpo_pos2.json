@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_2",
+    "reason": "The headline 'Own the Streets. Own the Legacy.' is more brand-specific and attention-grabbing, effectively tying the product to both street culture and its iconic heritage."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1's caption provides a more original and concrete visual scene with a vibrant cityscape and influencers capturing spontaneous moments, making it highly producible."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ cultural storytelling with influencer-driven lifestyle aspiration, demonstrating a coherent advertising technique with strong product fit."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_2",
+    "reason": "Brief 2 better matches Nike's brand voice and market position with its emphasis on leadership, bold design, and the iconic legacy of the Air Jordan 1."
+  },
+  "overall": {
+    "winner": "BRIEF_2",
+    "reason": "Brief 2 offers a more cohesive and brand-aligned approach, effectively combining strong visual direction with a compelling narrative that resonates with Nike's market position."
+  },
+  "position": 2,
+  "brief1_model": "dpo",
+  "brief2_model": "baseline",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "product": "Nike Air Jordan 1 streetwear sneakers"
+}

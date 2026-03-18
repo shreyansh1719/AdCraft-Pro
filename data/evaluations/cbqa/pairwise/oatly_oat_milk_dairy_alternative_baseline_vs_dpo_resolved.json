@@ -1,0 +1,29 @@
+{
+  "product": "Oatly oat milk dairy alternative",
+  "slug": "oatly_oat_milk_dairy_alternative",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

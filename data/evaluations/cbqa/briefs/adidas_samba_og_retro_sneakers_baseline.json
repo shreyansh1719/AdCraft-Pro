@@ -1,0 +1,31 @@
+{
+  "product": {
+    "prompt": "Adidas Samba OG retro sneakers",
+    "brand": "Adidas",
+    "product": "Samba OG retro sneakers"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Adidas\nProduct type: Samba OG retro sneakers\nTone: classic, authentic, sporty\nVisual style: A clean, vintage-inspired aesthetic with muted color palettes and nostalgic urban settings that highlight the sneaker's heritage.\nConceptual technique: heritage storytelling combined with lifestyle aspiration\nFormat: image",
+  "brief": {
+    "brand": "Adidas",
+    "product": "Samba OG retro sneakers",
+    "tone": "classic, authentic, sporty",
+    "visual_style": "A clean, vintage-inspired aesthetic with muted color palettes and nostalgic urban settings that highlight the sneaker's heritage.",
+    "conceptual_technique": "heritage storytelling combined with lifestyle aspiration",
+    "format": "image",
+    "headline": "Step Into Legacy",
+    "subheadline": "Samba OG \u2013 Timeless Style, Enduring Performance",
+    "body_copy": "Since 1949, Samba has been the heartbeat of the streets and the pitch. Embrace the original with the Samba OG retro sneakers, crafted for those who value authenticity and sport-driven heritage. Classic design meets modern comfort \u2013 a sneaker to carry your story forward.",
+    "call_to_action": "Discover the heritage. Own the moment.",
+    "visual_direction": {
+      "setting": "Nostalgic urban environments such as cobblestone streets, vintage soccer fields, and classic cityscapes during golden hour.",
+      "color_palette": "Muted tones with warm sepia and pastel accents to evoke a vintage feel.",
+      "composition": "Close-up shots of the Samba OG sneakers worn in action \u2013 walking, casual urban movement \u2013 paired with wider lifestyle shots capturing individuals embodying sporty confidence and classic style.",
+      "props": "Vintage soccer balls, retro sports gear, and iconic urban elements like old school bicycles or street lamps.",
+      "models": "Diverse individuals styled in classic sporty apparel reflecting both past and present eras.",
+      "lighting": "Soft natural lighting with a warm glow to enhance the nostalgic atmosphere."
+    }
+  },
+  "generated_at": "2026-03-19T02:01:59.199689"
+}

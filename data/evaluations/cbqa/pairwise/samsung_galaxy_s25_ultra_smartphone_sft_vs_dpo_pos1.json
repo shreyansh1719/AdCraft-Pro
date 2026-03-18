@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Ultra Visionaries' is more brand-specific and attention-grabbing, as it directly ties into the 'Ultra' branding of the Galaxy S25 Ultra."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "The caption in Brief 1 describes a more original and producible visual scene with the phone floating above a cityscape, which is more dynamic and visually engaging."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ technology-driven experiential storytelling and focus on the phone's advanced camera capabilities, demonstrating a coherent advertising technique with strong product fit."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better matches Samsung's brand voice and market position with its use of 'Galaxy-inspired' colors and a more futuristic, premium tone."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more compelling overall due to its stronger headline, more original visual concept, and better alignment with Samsung's brand identity."
+  },
+  "position": 1,
+  "brief1_model": "sft",
+  "brief2_model": "dpo",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "product": "Samsung Galaxy S25 Ultra smartphone"
+}

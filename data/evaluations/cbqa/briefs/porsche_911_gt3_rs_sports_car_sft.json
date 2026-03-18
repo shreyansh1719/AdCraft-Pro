@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Porsche 911 GT3 RS sports car",
+    "brand": "Porsche",
+    "product": "911 GT3 RS sports car"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Porsche\nProduct type: 911 GT3 RS sports car\nTone: performance-driven, exclusive, exhilarating\nVisual style: Bold, dynamic imagery emphasizing speed, precision engineering, and sleek aerodynamic design with a high-contrast color palette.\nConceptual technique: high-impact experiential storytelling\nFormat: image",
+  "brief": {
+    "headline": "REVS OF EXCELLENCE",
+    "caption": "A breathtaking scene where the Porsche 911 GT3 RS is tearing through a racetrack, with flames licking out from the exhaust, while the sun sets in the background, casting a golden glow over the sleek aerodynamic curves of the car.",
+    "tone": "performance-driven, exclusive, exhilarating",
+    "visual_style": "Bold, dynamic imagery emphasizing speed, precision engineering, and sleek aerodynamic design with a high-contrast color palette.",
+    "conceptual_technique": "high-impact experiential storytelling",
+    "call_to_action": "Feel the Thrill at Porsche.",
+    "emotion": "adrenaline, awe, desire",
+    "typography_style": "Condensed bold sans-serif, emphasizing speed and agility",
+    "color_scheme": "Porsche racing red, asphalt grey, and fiery orange"
+  },
+  "generated_at": "2026-03-19T02:02:30.436784"
+}

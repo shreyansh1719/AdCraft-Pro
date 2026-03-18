@@ -1,0 +1,29 @@
+{
+  "product": {
+    "prompt": "Oatly oat milk dairy alternative",
+    "brand": "Oatly",
+    "product": "oat milk dairy alternative"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Oatly\nProduct type: oat milk dairy alternative\nTone: playful, honest, eco-conscious\nVisual style: Bold, hand-drawn illustrations with bright colors and quirky typography that convey a fun and approachable personality.\nConceptual technique: humorous, irreverent storytelling with a focus on sustainability and transparency\nFormat: image",
+  "brief": {
+    "brand": "Oatly",
+    "product": "Oat Milk Dairy Alternative",
+    "tone": "playful, honest, eco-conscious",
+    "visual_style": "Bold, hand-drawn illustrations with bright colors and quirky typography that convey a fun and approachable personality",
+    "conceptual_technique": "humorous, irreverent storytelling with a focus on sustainability and transparency",
+    "format": "image",
+    "headline": "Milk Made by Oats. Not Cows.",
+    "body_copy": "Why drink milk from stressed-out cows when you can sip on creamy, eco-friendly oats? Oatly is here to shake up your mornings with a taste that\u2019s honest, delicious, and guilt-free. Because saving the planet should never be boring.",
+    "call_to_action": "Choose Oatly. Love your oats. Love your planet.",
+    "visual_direction": {
+      "illustrations": "Hand-drawn style with chunky outlines featuring quirky oat characters wearing sunglasses, happily swimming in a river labeled 'Sustainability Stream'. A cow character looks confused holding a \u2018Stress Level: High\u2019 sign.",
+      "color_palette": "Bright yellows, vibrant greens, and warm blues to evoke optimism and nature.",
+      "typography": "Playful, uneven, hand-lettered type that complements the illustrations and feels approachable and fun.",
+      "layout": "Central oat character with bold headline above, supporting copy below, and call to action in a brightly colored speech bubble. Background includes whimsical hand-drawn leaves and eco-icons like recycling symbols and water drops.",
+      "branding": "Oatly logo in bottom right corner, integrated seamlessly with the hand-drawn elements."
+    }
+  },
+  "generated_at": "2026-03-19T01:59:10.604692"
+}

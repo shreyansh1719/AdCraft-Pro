@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Levi's 501 Original jeans",
+    "brand": "Levi's",
+    "product": "501 Original jeans"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Levi's\nProduct type: 501 Original jeans\nTone: authentic, classic, rugged\nVisual style: Clean, vintage-inspired imagery with a focus on denim texture and timeless Americana aesthetics.\nConceptual technique: heritage storytelling with lifestyle authenticity\nFormat: image",
+  "brief": {
+    "headline": "501 Originals: Denim's Timeless Anthem",
+    "caption": "A rugged, sun-drenched scene of a vintage motorcycle parked against a weathered brick wall, with a lone rider casually leaning back, showcasing the iconic Levi's red tab on the rear pocket of their well-worn 501 jeans.",
+    "tone": "authentic, classic, rugged",
+    "visual_style": "Clean, vintage-inspired imagery with a focus on denim texture and timeless Americana aesthetics.",
+    "conceptual_technique": "heritage storytelling with lifestyle authenticity",
+    "call_to_action": "Rediscover Your Roots with 501.",
+    "emotion": "pride, nostalgia, confidence",
+    "typography_style": "Bold slab serif with a retro finish, echoing classic Americana signage.",
+    "color_scheme": "indigo blue denim, rustic brick red, and muted earthy tones"
+  },
+  "generated_at": "2026-03-19T02:00:59.929353"
+}

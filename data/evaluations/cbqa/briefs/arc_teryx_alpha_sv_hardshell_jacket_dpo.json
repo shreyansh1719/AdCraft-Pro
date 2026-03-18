@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Arc'teryx Alpha SV hardshell jacket",
+    "brand": "Arc'teryx",
+    "product": "Alpha SV hardshell jacket"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Arc'teryx\nProduct type: Alpha SV hardshell jacket\nTone: rugged, performance-driven, premium\nVisual style: Clean, minimalist imagery highlighting technical details and extreme outdoor environments.\nConceptual technique: authentic adventure storytelling\nFormat: image",
+  "brief": {
+    "headline": "Shell of a Different Weather",
+    "caption": "A lone climber braves a fierce snowstorm, the vibrant red Alpha SV jacket standing out against the monochrome of icy cliffs and swirling whiteout conditions, showcasing unmatched protection.",
+    "tone": "rugged, performance-driven, premium",
+    "visual_style": "Clean, minimalist imagery highlighting technical details and extreme outdoor environments.",
+    "conceptual_technique": "authentic adventure storytelling",
+    "call_to_action": "Gear Up for the Elements",
+    "emotion": "resilience, awe, reliability",
+    "typography_style": "Bold, condensed sans-serif with a utilitarian aesthetic",
+    "color_scheme": "Arc'teryx red, slate grey, and glacier white"
+  },
+  "generated_at": "2026-03-19T02:04:40.056003"
+}

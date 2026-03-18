@@ -1,0 +1,29 @@
+{
+  "product": {
+    "prompt": "Beats Studio Pro headphones",
+    "brand": "Beats",
+    "product": "Studio Pro headphones"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Beats\nProduct type: Studio Pro headphones\nTone: bold, energetic, premium\nVisual style: Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors.\nConceptual technique: dynamic lifestyle aspiration showcasing music immersion and creative expression.\nFormat: image",
+  "brief": {
+    "brand": "Beats",
+    "product": "Studio Pro headphones",
+    "tone": "bold, energetic, premium",
+    "visual_style": "Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors",
+    "conceptual_technique": "Dynamic lifestyle aspiration showcasing music immersion and creative expression",
+    "format": "image",
+    "headline": "Unleash Your Sound. Own Your Studio.",
+    "body_copy": "Experience every beat with unmatched clarity and power. The new Beats Studio Pro headphones deliver premium sound crafted for creators who demand boldness and precision. Dive deep into your music, fuel your creativity, and make every moment resonate.",
+    "call_to_action": "Discover Studio Pro \u2013 Where Sound Meets Artistry.",
+    "visual_direction": {
+      "primary_image": "Close-up of Beats Studio Pro headphones with sleek metallic finishes, highlighted by vibrant, high-contrast lighting that accentuates the texture and craftsmanship.",
+      "background": "Dynamic urban studio environment with subtle blurred motion of a creative at work, immersed in music, with vibrant splashes of color suggesting energy and creativity.",
+      "color_palette": "Deep blacks, rich reds, and vivid electric blues to emphasize premium quality and energetic vibe.",
+      "composition": "Headphones prominently centered with slight angle to showcase design details; creative figure slightly out of focus in background engaging in music or artistic activity.",
+      "typography": "Bold, modern sans-serif font in white or red for headline and call-to-action to ensure legibility against dark background."
+    }
+  },
+  "generated_at": "2026-03-19T02:06:05.641377"
+}

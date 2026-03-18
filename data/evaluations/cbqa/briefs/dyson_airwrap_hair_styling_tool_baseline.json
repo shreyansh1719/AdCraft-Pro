@@ -1,0 +1,34 @@
+{
+  "product": {
+    "prompt": "Dyson Airwrap hair styling tool",
+    "brand": "Dyson",
+    "product": "Airwrap hair styling tool"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Dyson\nProduct type: Airwrap hair styling tool\nTone: innovative, premium, empowering\nVisual style: Clean, modern visuals with sleek product shots emphasizing technology and effortless elegance.\nConceptual technique: demonstrative product storytelling\nFormat: image",
+  "brief": {
+    "brand": "Dyson",
+    "product": "Airwrap hair styling tool",
+    "tone": [
+      "innovative",
+      "premium",
+      "empowering"
+    ],
+    "visual_style": "Clean, modern visuals with sleek product shots emphasizing technology and effortless elegance",
+    "conceptual_technique": "demonstrative product storytelling",
+    "format": "image",
+    "headline": "Style Without Limits",
+    "subheadline": "The Dyson Airwrap: Harness Air. Not Heat.",
+    "body_copy": "Experience the future of hair styling with Dyson Airwrap. Using intelligent heat control and powerful airflow, it styles your hair effortlessly, protecting its natural shine and strength. From voluminous curls to sleek finishes, empower your creativity with every stroke.",
+    "call_to_action": "Discover the innovation at dyson.com",
+    "visual_direction": {
+      "composition": "A sleek, close-up shot of the Dyson Airwrap in action, gently wrapping a strand of hair using airflow, set against a minimalist white or light gray background.",
+      "lighting": "Soft, diffused lighting to highlight the metallic and technological details of the product, enhancing its premium feel.",
+      "color_palette": "Monochrome with accents of Dyson's signature purple and metallic silver to emphasize innovation and luxury.",
+      "additional_elements": "Subtle, translucent airflow lines illustrating the movement of air around the hair to visually demonstrate the technology in use.",
+      "model": "Optional: A confident, modern woman with naturally styled hair, showcasing effortless elegance and empowerment."
+    }
+  },
+  "generated_at": "2026-03-19T02:00:07.689051"
+}

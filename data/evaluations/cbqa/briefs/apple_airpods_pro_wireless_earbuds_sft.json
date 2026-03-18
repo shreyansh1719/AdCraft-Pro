@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Apple AirPods Pro wireless earbuds",
+    "brand": "Apple",
+    "product": "AirPods Pro wireless earbuds"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Apple\nProduct type: AirPods Pro wireless earbuds\nTone: innovative, premium, minimalist\nVisual style: Clean, sleek visuals with a focus on white space and product close-ups that emphasize modernity and sophistication.\nConceptual technique: lifestyle aspiration storytelling\nFormat: image",
+  "brief": {
+    "headline": "Soundtrack of Silence",
+    "caption": "A serene park scene with a jogger immersed in their own world, oblivious to the bustling city around them, showcasing the AirPods Pro's noise-cancellation feature.",
+    "tone": "innovative, premium, minimalist",
+    "visual_style": "Clean, sleek visuals with a focus on white space and product close-ups that emphasize modernity and sophistication.",
+    "conceptual_technique": "lifestyle aspiration storytelling",
+    "call_to_action": "Discover the AirPods Pro Experience",
+    "emotion": "peace, exclusivity, clarity",
+    "typography_style": "San Francisco (Apple's proprietary font), sleek and modern with ample kerning",
+    "color_scheme": "pristine white with subtle hints of silver and space gray"
+  },
+  "generated_at": "2026-03-19T01:58:46.186840"
+}

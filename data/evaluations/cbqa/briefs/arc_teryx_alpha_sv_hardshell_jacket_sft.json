@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Arc'teryx Alpha SV hardshell jacket",
+    "brand": "Arc'teryx",
+    "product": "Alpha SV hardshell jacket"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Arc'teryx\nProduct type: Alpha SV hardshell jacket\nTone: rugged, performance-driven, premium\nVisual style: Clean, minimalist imagery highlighting technical details and extreme outdoor environments.\nConceptual technique: authentic adventure storytelling\nFormat: image",
+  "brief": {
+    "headline": "Weatherproof Warrior",
+    "caption": "A lone climber stands half-buried in fresh snow against a sheer ice wall, with the Alpha SV jacket defying the storm as wind-swept flakes swirl around, showcasing its unmatched protection.",
+    "tone": "rugged, performance-driven, premium",
+    "visual_style": "Clean, minimalist imagery highlighting technical details and extreme outdoor environments.",
+    "conceptual_technique": "authentic adventure storytelling",
+    "call_to_action": "Conquer the Elements with Alpha SV",
+    "emotion": "resilience, awe, empowerment",
+    "typography_style": "Condensed sans-serif with a sturdy, no-nonsense feel",
+    "color_scheme": "Arctic white, deep glacier blue, and stone grey"
+  },
+  "generated_at": "2026-03-19T02:04:34.006800"
+}

@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Chanel No. 5 perfume fragrance",
+    "brand": "Chanel",
+    "product": "No. 5 perfume fragrance"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Chanel\nProduct type: No. 5 perfume fragrance\nTone: elegant, timeless, luxurious\nVisual style: A minimalist yet opulent visual style featuring classic black and white contrasts with gold accents, emphasizing sophistication and heritage.\nConceptual technique: iconic celebrity endorsement with aspirational storytelling\nFormat: image",
+  "brief": {
+    "headline": "Inevitable.",
+    "caption": "In a cinematic black-and-white scene, a Hollywood starlet dashes through a bustling city street, effortlessly captivating the crowd as she clutches a bottle of Chanel No. 5. Her aura of mystery and allure is undeniable, making the fragrance an essential part of her legend.",
+    "tone": "elegant, timeless, luxurious",
+    "visual_style": "A minimalist yet opulent visual style featuring classic black and white contrasts with gold accents, emphasizing sophistication and heritage.",
+    "conceptual_technique": "iconic celebrity endorsement with aspirational storytelling",
+    "call_to_action": "Discover the Legend",
+    "emotion": "admiration, desire, elegance",
+    "typography_style": "Classic serif with high contrast, reminiscent of vintage luxury branding",
+    "color_scheme": "monochrome black and white with touches of gold"
+  },
+  "generated_at": "2026-03-19T01:58:59.965749"
+}

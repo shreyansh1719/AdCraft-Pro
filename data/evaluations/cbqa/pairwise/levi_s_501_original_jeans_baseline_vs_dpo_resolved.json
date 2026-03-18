@@ -1,0 +1,28 @@
+{
+  "product": "Levi's 501 Original jeans",
+  "slug": "levi_s_501_original_jeans",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

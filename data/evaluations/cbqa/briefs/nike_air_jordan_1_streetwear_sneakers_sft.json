@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Nike Air Jordan 1 streetwear sneakers",
+    "brand": "Nike",
+    "product": "Air Jordan 1 streetwear sneakers"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Nike\nProduct type: Air Jordan 1 streetwear sneakers\nTone: bold, energetic, iconic\nVisual style: A dynamic and urban visual style featuring high-contrast imagery, vibrant street scenes, and close-ups of sneaker details emphasizing craftsmanship and heritage.\nConceptual technique: cultural storytelling with influencer-driven lifestyle aspiration\nFormat: image",
+  "brief": {
+    "headline": "Lace Up the Legacy",
+    "caption": "A high-energy street scene captures a diverse group of sneakerheads congregating at a graffiti-covered basketball court, their Air Jordan 1s in vibrant colorways taking center stage as they showcase effortless style and cultural heritage.",
+    "tone": "bold, energetic, iconic",
+    "visual_style": "A dynamic and urban visual style featuring high-contrast imagery, vibrant street scenes, and close-ups of sneaker details emphasizing craftsmanship and heritage.",
+    "conceptual_technique": "cultural storytelling with influencer-driven lifestyle aspiration",
+    "call_to_action": "Step Into the Culture",
+    "emotion": "empowerment, nostalgia, excitement",
+    "typography_style": "Bold stencil-inspired typography with a vintage streetwear feel, layered over the action-packed scene.",
+    "color_scheme": "classic Nike red, black, and white accented with vibrant street art colors like electric blue and graffiti green."
+  },
+  "generated_at": "2026-03-19T01:58:27.521547"
+}

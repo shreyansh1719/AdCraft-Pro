@@ -1,0 +1,29 @@
+{
+  "product": "Glossier Cloud Paint blush",
+  "slug": "glossier_cloud_paint_blush",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

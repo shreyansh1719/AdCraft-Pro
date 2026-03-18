@@ -1,0 +1,40 @@
+{
+  "product": {
+    "prompt": "Coca-Cola Original classic beverage",
+    "brand": "Coca-Cola",
+    "product": "Original classic beverage"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Coca-Cola\nProduct type: Original classic beverage\nTone: refreshing, nostalgic, authentic\nVisual style: Bold red and white color palette with classic typography and vibrant, energetic imagery that evokes happiness and togetherness.\nConceptual technique: emotional storytelling centered on shared moments and timeless enjoyment\nFormat: image",
+  "brief": {
+    "brand": "Coca-Cola",
+    "product": "Original classic beverage",
+    "tone": "refreshing, nostalgic, authentic",
+    "visual_style": {
+      "color_palette": [
+        "#E41A1C",
+        "#FFFFFF"
+      ],
+      "typography": "Classic Coca-Cola script with bold, vintage serif fonts",
+      "imagery": "Vibrant, energetic scenes of friends and family sharing joyful moments outdoors with visible Coca-Cola bottles or cans",
+      "mood": "Happy, warm, timeless, and inviting"
+    },
+    "conceptual_technique": "Emotional storytelling centered on shared moments and timeless enjoyment",
+    "format": "image",
+    "headline": "Taste the Feeling of Togetherness",
+    "body_copy": "From every smile to every clink, Coca-Cola brings people closer. Relive the classic moments with the original, refreshing taste that never goes out of style.",
+    "call_to_action": "Open a Coke, Open Happiness",
+    "visual_direction": {
+      "scene_description": "A sunlit picnic scene with a diverse group of friends laughing and sharing Coca-Cola bottles. The iconic red and white logo is prominently displayed on glass bottles glistening with condensation. The background is blurred to focus on the joyful expressions and the vibrant red Coke bottles on the table.",
+      "composition": "Centered focus on the hands reaching in with Coca-Cola bottles, surrounded by warm smiles. Bold Coca-Cola script headline overlays the top portion, with the tagline and call to action at the bottom right corner in white text on a red banner.",
+      "lighting": "Bright, natural sunlight enhancing the red hues and giving a warm glow to the scene.",
+      "props": [
+        "Classic glass Coca-Cola bottles",
+        "Checkered picnic blanket",
+        "Vintage picnic basket"
+      ]
+    }
+  },
+  "generated_at": "2026-03-19T02:02:42.056868"
+}

@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Heineken Silver premium lager",
+    "brand": "Heineken",
+    "product": "Silver premium lager"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Heineken\nProduct type: Silver premium lager\nTone: refreshing, modern, premium\nVisual style: Clean, sleek visuals with a bright silver palette emphasizing clarity and sophistication.\nConceptual technique: lifestyle aspiration storytelling\nFormat: image",
+  "brief": {
+    "headline": "Sip into the Silver Lining",
+    "caption": "A pristine glass of frosty Heineken Silver stands tall against a sunlit backdrop of a modern rooftop party, with shimmering cityscape reflections dancing off its sleek surface, enticing viewers to join the vibrant, refreshing moment.",
+    "tone": "refreshing, modern, premium",
+    "visual_style": "Clean, sleek visuals with a bright silver palette emphasizing clarity and sophistication.",
+    "conceptual_technique": "lifestyle aspiration storytelling",
+    "call_to_action": "Discover the Silver Moment",
+    "emotion": "excitement, craving, sophistication",
+    "typography_style": "Elegant modern sans-serif with a light, airy feel",
+    "color_scheme": "Heineken's signature green, crisp silver, and cool frosty white"
+  },
+  "generated_at": "2026-03-19T02:04:02.329016"
+}

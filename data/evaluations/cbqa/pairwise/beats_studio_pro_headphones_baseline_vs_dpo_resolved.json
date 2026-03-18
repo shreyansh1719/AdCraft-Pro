@@ -1,0 +1,28 @@
+{
+  "product": "Beats Studio Pro headphones",
+  "slug": "beats_studio_pro_headphones",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

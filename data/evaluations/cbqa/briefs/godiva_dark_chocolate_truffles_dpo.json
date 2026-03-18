@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Godiva Dark Chocolate Truffles",
+    "brand": "Godiva",
+    "product": "Dark Chocolate Truffles"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Godiva\nProduct type: Dark Chocolate Truffles\nTone: luxurious, indulgent, elegant\nVisual style: Rich, dark hues with gold accents and close-up shots highlighting the smooth texture and glossy finish of the truffles.\nConceptual technique: sensory indulgence storytelling\nFormat: image",
+  "brief": {
+    "headline": "A Moment of Pure Temptation",
+    "caption": "A luxurious setting with a velvet-draped table where a golden tray holds an assortment of Godiva dark chocolate truffles, each glistening under soft, ambient lighting. A delicate hand reaches into the frame to select one, capturing the indulgent moment of anticipation.",
+    "tone": "luxurious, indulgent, elegant",
+    "visual_style": "Rich, dark hues with gold accents and close-up shots highlighting the smooth texture and glossy finish of the truffles.",
+    "conceptual_technique": "sensory indulgence storytelling",
+    "call_to_action": "Indulge Today at Godiva.com",
+    "emotion": "craving, satisfaction, sophistication",
+    "typography_style": "Elegant serif with high contrast, reminiscent of luxury branding",
+    "color_scheme": "deep cocoa brown, shimmering gold, and creamy ivory"
+  },
+  "generated_at": "2026-03-19T02:05:13.352919"
+}

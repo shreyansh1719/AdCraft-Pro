@@ -1,0 +1,29 @@
+{
+  "product": {
+    "prompt": "Glossier Cloud Paint blush",
+    "brand": "Glossier",
+    "product": "Cloud Paint blush"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Glossier\nProduct type: Cloud Paint blush\nTone: fresh, approachable, youthful\nVisual style: Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.\nConceptual technique: authentic user-generated content showcasing real people in everyday moments\nFormat: image",
+  "brief": {
+    "brand": "Glossier",
+    "product": "Cloud Paint blush",
+    "tone": "fresh, approachable, youthful",
+    "visual_style": "Soft, airy visuals with pastel hues and natural lighting that emphasize a dewy, effortless beauty look.",
+    "conceptual_technique": "Authentic user-generated content showcasing real people in everyday moments",
+    "format": "image",
+    "headline": "Glow Naturally, Every Day",
+    "tagline": "Cloud Paint by Glossier \u2013 Blush that feels like you",
+    "copy": "Meet Cloud Paint: a gel-cream blush that blends seamlessly for a fresh, dewy flush. No filters, just your natural glow.",
+    "visual_direction": {
+      "image_content": "Candid, close-up shots of diverse real people applying Cloud Paint in natural light \u2014 at home, at a caf\u00e9, or outdoors. The blush is subtly visible, enhancing their natural complexion with a soft flush in pastel hues.",
+      "color_palette": "Soft pinks, peaches, and corals with airy whites and light pastels.",
+      "lighting": "Natural, diffused light creating a gentle, glowing effect on skin.",
+      "composition": "Unpolished yet beautiful moments that feel spontaneous and relatable, with minimal styling to keep the focus on authentic beauty.",
+      "background": "Simple, uncluttered environments like a sunlit bedroom, kitchen, or park."
+    }
+  },
+  "generated_at": "2026-03-19T02:03:35.017677"
+}

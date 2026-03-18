@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Oatly oat milk dairy alternative",
+    "brand": "Oatly",
+    "product": "oat milk dairy alternative"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Oatly\nProduct type: oat milk dairy alternative\nTone: playful, honest, eco-conscious\nVisual style: Bold, hand-drawn illustrations with bright colors and quirky typography that convey a fun and approachable personality.\nConceptual technique: humorous, irreverent storytelling with a focus on sustainability and transparency\nFormat: image",
+  "brief": {
+    "headline": "Oat-standing in the Dairy-Free Field!",
+    "caption": "A playful scene where cartoon cows are happily handing over oat grains to a cheerful farmer, highlighting Oatly's plant-based origin with a humorous twist.",
+    "tone": "playful, honest, eco-conscious",
+    "visual_style": "Bold, hand-drawn illustrations with bright colors and quirky typography that convey a fun and approachable personality.",
+    "conceptual_technique": "humorous, irreverent storytelling with a focus on sustainability and transparency",
+    "call_to_action": "Get Yours at the Plant-Based Aisle!",
+    "emotion": "amusement, trust, environmental responsibility",
+    "typography_style": "Whimsical hand-drawn lettering with varied weights for emphasis",
+    "color_scheme": "vibrant oat-beige, cow-black-and-white, and leafy green accents"
+  },
+  "generated_at": "2026-03-19T01:59:12.816959"
+}

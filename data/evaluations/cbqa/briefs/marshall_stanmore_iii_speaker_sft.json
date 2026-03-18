@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Marshall Stanmore III speaker",
+    "brand": "Marshall",
+    "product": "Stanmore III speaker"
+  },
+  "model_name": "sft",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKlvOMcG",
+  "user_message": "Create an ad for:\nBrand: Marshall\nProduct type: Stanmore III speaker\nTone: bold, vintage, premium\nVisual style: A sleek blend of retro rock-and-roll aesthetics with modern minimalist design elements emphasizing high-quality materials and craftsmanship.\nConceptual technique: heritage storytelling with lifestyle aspiration\nFormat: image",
+  "brief": {
+    "headline": "Turn It Up to Legendary.",
+    "caption": "A Marshall Stanmore III speaker sits prominently on a mid-century modern credenza, flanked by vinyl records and a vintage turntable, against a backdrop of a dimly lit, stylish loft apartment with exposed brick walls and industrial steel beams, casting a moody, rock-and-roll ambiance.",
+    "tone": "bold, vintage, premium",
+    "visual_style": "A sleek blend of retro rock-and-roll aesthetics with modern minimalist design elements emphasizing high-quality materials and craftsmanship.",
+    "conceptual_technique": "heritage storytelling with lifestyle aspiration",
+    "call_to_action": "Unleash Your Sound",
+    "emotion": "confidence, nostalgia, empowerment",
+    "typography_style": "Bold slab serif with a classic rock influence, echoing Marshall's iconic branding",
+    "color_scheme": "deep charcoal black, vintage gold, and rich mahogany brown"
+  },
+  "generated_at": "2026-03-19T02:05:25.088714"
+}

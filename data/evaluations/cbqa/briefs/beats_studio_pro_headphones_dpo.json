@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Beats Studio Pro headphones",
+    "brand": "Beats",
+    "product": "Studio Pro headphones"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Beats\nProduct type: Studio Pro headphones\nTone: bold, energetic, premium\nVisual style: Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors.\nConceptual technique: dynamic lifestyle aspiration showcasing music immersion and creative expression.\nFormat: image",
+  "brief": {
+    "headline": "Dial Up Your Soundscape",
+    "caption": "A pulsating wave of colorful sound envelops a cityscape, with the Beats Studio Pro headphones at the epicenter, radiating vibrant energy that transforms the urban environment into a living, breathing concert.",
+    "tone": "bold, energetic, premium",
+    "visual_style": "Sleek, modern visuals with high-contrast lighting emphasizing the product's craftsmanship and vibrant colors.",
+    "conceptual_technique": "dynamic lifestyle aspiration showcasing music immersion and creative expression.",
+    "call_to_action": "Elevate Your Studio Experience",
+    "emotion": "excitement, empowerment, creativity",
+    "typography_style": "Bold, condensed sans-serif with dynamic slanting for movement",
+    "color_scheme": "Beats' signature red, deep black, and crisp white accents"
+  },
+  "generated_at": "2026-03-19T02:06:14.252730"
+}

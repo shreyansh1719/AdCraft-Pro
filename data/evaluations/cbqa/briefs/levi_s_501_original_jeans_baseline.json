@@ -1,0 +1,32 @@
+{
+  "product": {
+    "prompt": "Levi's 501 Original jeans",
+    "brand": "Levi's",
+    "product": "501 Original jeans"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Levi's\nProduct type: 501 Original jeans\nTone: authentic, classic, rugged\nVisual style: Clean, vintage-inspired imagery with a focus on denim texture and timeless Americana aesthetics.\nConceptual technique: heritage storytelling with lifestyle authenticity\nFormat: image",
+  "brief": {
+    "brand": "Levi's",
+    "product": "501 Original jeans",
+    "objective": "Reinforce Levi's 501 as the authentic, timeless jean that defines rugged Americana style.",
+    "target_audience": "Men and women aged 25-45 who appreciate heritage, quality craftsmanship, and classic American style.",
+    "key_message": "Levi's 501 Original jeans are the enduring symbol of authentic American heritage and rugged individuality.",
+    "tone": "Authentic, classic, rugged",
+    "visual_style": "Clean, vintage-inspired imagery emphasizing the rich denim texture and timeless Americana aesthetics.",
+    "concept": "Heritage storytelling with lifestyle authenticity - showcasing the 501 as a staple woven into the fabric of American life and culture.",
+    "copy": {
+      "headline": "501 Original. Timeless. True.",
+      "body": "Since 1873, Levi's 501 jeans have been the original icon of American authenticity and rugged style. Crafted with durable denim and a fit that never goes out of fashion, they\u2019re more than jeans\u2014they\u2019re a way of life.",
+      "call_to_action": "Discover your legacy in 501."
+    },
+    "visual_direction": {
+      "imagery": "A clean, vintage-inspired photograph featuring a diverse group of people wearing Levi's 501 jeans in an outdoor Americana setting such as a classic open road, a rustic barn, or a vintage motorcycle scene. Close-up shots highlight the denim texture, stitching, and signature button fly. The lighting is natural and warm, evoking nostalgia and durability.",
+      "color_palette": "Muted earth tones with classic indigo denim blues, warm beige, and subtle sepia filters to enhance the vintage feel.",
+      "layout": "Minimalist with the product front and center; headline positioned bold and clear at the top or bottom; subtle Levi's red tab logo placed discreetly but recognizably."
+    },
+    "format": "Image ad suitable for print and digital placements"
+  },
+  "generated_at": "2026-03-19T02:00:43.065080"
+}

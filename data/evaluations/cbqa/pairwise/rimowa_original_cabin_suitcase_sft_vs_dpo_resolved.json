@@ -1,0 +1,28 @@
+{
+  "product": "Rimowa Original Cabin suitcase",
+  "slug": "rimowa_original_cabin_suitcase",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "sft",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "sft",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "overall": {
+      "winner": "sft",
+      "stable": true
+    }
+  }
+}

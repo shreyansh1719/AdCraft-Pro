@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Time Tested, Depth Approved.' is more concise and brand-specific, effectively conveying the watch's durability and heritage."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_1",
+    "reason": "The caption in Brief 1 offers a more original and producible visual scene with the diver's shadow adding a unique element of intrigue and depth."
+  },
+  "strategic_thinking": {
+    "winner": "TIE",
+    "reason": "Both briefs employ heritage storytelling and aspirational lifestyle portrayal, demonstrating a coherent advertising technique with strong product fit."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better aligns with Rolex's brand voice and market position by emphasizing the watch's legendary aquatic heritage and using a classic color scheme."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more compelling overall due to its stronger headline, unique visual concept, and better alignment with the Rolex brand."
+  },
+  "position": 1,
+  "brief1_model": "sft",
+  "brief2_model": "dpo",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "product": "Rolex Submariner luxury dive watch"
+}

@@ -1,0 +1,30 @@
+{
+  "product": "Porsche 911 GT3 RS sports car",
+  "slug": "porsche_911_gt3_rs_sports_car",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "sft",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "dpo",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "brand_alignment": {
+      "winner": "dpo",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "dpo",
+      "stable": true
+    }
+  }
+}

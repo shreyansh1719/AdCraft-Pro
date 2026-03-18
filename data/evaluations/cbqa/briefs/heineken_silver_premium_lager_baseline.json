@@ -1,0 +1,42 @@
+{
+  "product": {
+    "prompt": "Heineken Silver premium lager",
+    "brand": "Heineken",
+    "product": "Silver premium lager"
+  },
+  "model_name": "baseline",
+  "model_id": "gpt-4.1-mini-2025-04-14",
+  "user_message": "Create an ad for:\nBrand: Heineken\nProduct type: Silver premium lager\nTone: refreshing, modern, premium\nVisual style: Clean, sleek visuals with a bright silver palette emphasizing clarity and sophistication.\nConceptual technique: lifestyle aspiration storytelling\nFormat: image",
+  "brief": {
+    "brand": "Heineken",
+    "product": "Silver Premium Lager",
+    "objective": "Position Heineken Silver as the go-to premium lager for modern, sophisticated consumers seeking a refreshing and elevated drinking experience.",
+    "target_audience": {
+      "demographics": "Adults aged 25-40, urban professionals, both male and female, with moderate to high disposable income.",
+      "psychographics": "Value quality and style, aspire to a balanced lifestyle combining work and social enjoyment, appreciate modern design and subtle luxury."
+    },
+    "key_message": "Experience the refreshing clarity and premium sophistication of Heineken Silver \u2013 the perfect companion for your modern lifestyle.",
+    "tone_and_manner": "Refreshing, modern, premium, clean, and sophisticated.",
+    "visual_direction": {
+      "palette": "Bright silver tones accented with clean white and subtle green from Heineken branding.",
+      "style": "Minimalistic and sleek with sharp clarity; emphasis on purity and premium craftsmanship.",
+      "imagery": "A chilled Heineken Silver bottle or can with dewy condensation placed on a reflective surface. Background featuring a bright, airy urban rooftop or a stylish modern indoor setting that conveys aspirational lifestyle.",
+      "lighting": "High-key lighting to emphasize the metallic silver finish and clarity of the lager, creating a fresh and inviting glow.",
+      "composition": "Centered product focus with negative space to reinforce simplicity and premium feel, subtle storytelling elements such as a blurred silhouette of a happy group enjoying a social moment in the background."
+    },
+    "copy": {
+      "headline": "Heineken Silver \u2013 Refreshment Refined.",
+      "body": "Crafted for those who live modern, live premium. Discover the crisp clarity and smooth taste of our Silver Premium Lager. Refresh your moments, elevate your lifestyle.",
+      "call_to_action": "Taste the silver standard today."
+    },
+    "format": "Image",
+    "deliverables": [
+      {
+        "type": "Print and Digital Ad Image",
+        "size": "1080x1080 px for social media, adaptable for print posters and billboards",
+        "file_format": "High resolution JPEG and PNG"
+      }
+    ]
+  },
+  "generated_at": "2026-03-19T02:03:56.660141"
+}

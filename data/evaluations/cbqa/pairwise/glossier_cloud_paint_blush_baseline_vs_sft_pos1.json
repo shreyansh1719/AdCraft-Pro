@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Glow Naturally, Every Day' is more brand-specific and concise, directly tying into Glossier's emphasis on natural beauty."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_2",
+    "reason": "The caption in Brief 2 describes a more original and producible visual scene by specifying diverse, relatable settings like a subway or during a video call."
+  },
+  "strategic_thinking": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 demonstrates a more coherent advertising technique with a stronger product fit by focusing on the seamless blend and natural glow of the product."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better matches Glossier's brand voice and market position with its emphasis on natural, effortless beauty and use of soft, pastel colors."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more aligned with Glossier's brand identity and effectively communicates the product's benefits in a cohesive manner."
+  },
+  "position": 1,
+  "brief1_model": "baseline",
+  "brief2_model": "sft",
+  "model_a": "baseline",
+  "model_b": "sft",
+  "product": "Glossier Cloud Paint blush"
+}

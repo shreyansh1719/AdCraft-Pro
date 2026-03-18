@@ -1,0 +1,28 @@
+{
+  "product": "IKEA KALLAX shelf unit",
+  "slug": "ikea_kallax_shelf_unit",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "overall": {
+      "winner": "dpo",
+      "stable": true
+    }
+  }
+}

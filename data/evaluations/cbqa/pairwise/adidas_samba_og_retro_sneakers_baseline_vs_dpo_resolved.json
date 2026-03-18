@@ -1,0 +1,29 @@
+{
+  "product": "Adidas Samba OG retro sneakers",
+  "slug": "adidas_samba_og_retro_sneakers",
+  "model_a": "baseline",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "strategic_thinking": {
+      "winner": "baseline",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "baseline",
+      "stable": true,
+      "note": "one_position_tie"
+    },
+    "overall": {
+      "winner": "baseline",
+      "stable": true
+    }
+  }
+}

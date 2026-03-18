@@ -1,0 +1,28 @@
+{
+  "headline": {
+    "winner": "BRIEF_1",
+    "reason": "The headline 'Alpha SV: Built for the Savage' is more brand-specific and attention-grabbing, directly referencing the product name and conveying a sense of ruggedness."
+  },
+  "visual_concept": {
+    "winner": "BRIEF_2",
+    "reason": "The caption in Brief 2 describes a vivid and producible visual scene with a climber half-buried in snow against an ice wall, effectively showcasing the jacket's protection."
+  },
+  "strategic_thinking": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 demonstrates a more coherent advertising technique by clearly outlining the product's features and benefits, aligning with the target audience's needs."
+  },
+  "brand_alignment": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 better matches Arc'teryx's brand voice and market position with its focus on technical features and premium quality, using a color palette that aligns with the brand's aesthetic."
+  },
+  "overall": {
+    "winner": "BRIEF_1",
+    "reason": "Brief 1 is more comprehensive and aligns better with the brand's identity, offering a clear message and visual direction that effectively communicates the product's strengths."
+  },
+  "position": 1,
+  "brief1_model": "baseline",
+  "brief2_model": "sft",
+  "model_a": "baseline",
+  "model_b": "sft",
+  "product": "Arc'teryx Alpha SV hardshell jacket"
+}

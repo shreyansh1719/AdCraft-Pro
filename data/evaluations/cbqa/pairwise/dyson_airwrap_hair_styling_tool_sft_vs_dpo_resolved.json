@@ -1,0 +1,28 @@
+{
+  "product": "Dyson Airwrap hair styling tool",
+  "slug": "dyson_airwrap_hair_styling_tool",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "UNSTABLE",
+      "stable": false
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "overall": {
+      "winner": "dpo",
+      "stable": true
+    }
+  }
+}

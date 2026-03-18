@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "IKEA KALLAX shelf unit",
+    "brand": "IKEA",
+    "product": "KALLAX shelf unit"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: IKEA\nProduct type: KALLAX shelf unit\nTone: functional, approachable, modern\nVisual style: Clean, minimalist visuals with bright, natural lighting emphasizing simplicity and versatility.\nConceptual technique: practical lifestyle demonstration\nFormat: image",
+  "brief": {
+    "headline": "SHELVES OF POSSIBILITIES",
+    "caption": "A neatly organized living room showcasing the KALLAX shelf unit filled with books, plants, and decorative items, illustrating its adaptability and style in a modern home setting.",
+    "tone": "functional, approachable, modern",
+    "visual_style": "Clean, minimalist visuals with bright, natural lighting emphasizing simplicity and versatility.",
+    "conceptual_technique": "practical lifestyle demonstration",
+    "call_to_action": "Explore the KALLAX range at IKEA",
+    "emotion": "orderliness, satisfaction",
+    "typography_style": "IKEA\u2019s bold, sans-serif typeface (similar to Futura or Verdana), clean and readable",
+    "color_scheme": "light wood tones, white, and IKEA\u2019s iconic blue and yellow branding"
+  },
+  "generated_at": "2026-03-19T02:04:22.051782"
+}

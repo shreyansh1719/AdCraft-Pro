@@ -1,0 +1,22 @@
+{
+  "product": {
+    "prompt": "Nike Air Jordan 1 streetwear sneakers",
+    "brand": "Nike",
+    "product": "Air Jordan 1 streetwear sneakers"
+  },
+  "model_name": "dpo",
+  "model_id": "ft:gpt-4.1-mini-2025-04-14:shreyansh::DKoaHRaE",
+  "user_message": "Create an ad for:\nBrand: Nike\nProduct type: Air Jordan 1 streetwear sneakers\nTone: bold, energetic, iconic\nVisual style: A dynamic and urban visual style featuring high-contrast imagery, vibrant street scenes, and close-ups of sneaker details emphasizing craftsmanship and heritage.\nConceptual technique: cultural storytelling with influencer-driven lifestyle aspiration\nFormat: image",
+  "brief": {
+    "headline": "LACE UP LEGENDS",
+    "caption": "A vibrant cityscape at dusk, with a basketball court glowing under streetlights. A group of diverse influencers stands casually around the court, all wearing different colorways of Air Jordan 1s, capturing spontaneous moments of style and culture. The iconic Jordan 'Jumpman' logo is subtly embossed on a nearby graffiti wall.",
+    "tone": "bold, energetic, iconic",
+    "visual_style": "A dynamic and urban visual style featuring high-contrast imagery, vibrant street scenes, and close-ups of sneaker details emphasizing craftsmanship and heritage.",
+    "conceptual_technique": "cultural storytelling with influencer-driven lifestyle aspiration",
+    "call_to_action": "EXPLORE THE LEGENDS",
+    "emotion": "pride, excitement, belonging",
+    "typography_style": "Impactful sans-serif with a graffiti-inspired flair, bold and commanding attention",
+    "color_scheme": "Nike's classic red, black, and white with urban neon accents"
+  },
+  "generated_at": "2026-03-19T01:58:34.483519"
+}

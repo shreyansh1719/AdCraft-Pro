@@ -1,0 +1,28 @@
+{
+  "product": "Aesop Resurrection hand wash",
+  "slug": "aesop_resurrection_hand_wash",
+  "model_a": "sft",
+  "model_b": "dpo",
+  "resolved": {
+    "headline": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "visual_concept": {
+      "winner": "dpo",
+      "stable": true
+    },
+    "strategic_thinking": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "brand_alignment": {
+      "winner": "TIE",
+      "stable": true
+    },
+    "overall": {
+      "winner": "dpo",
+      "stable": true
+    }
+  }
+}
