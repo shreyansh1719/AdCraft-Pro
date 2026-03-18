@@ -13,12 +13,12 @@ Fine-tuned gpt-4.1-mini writes the creative brief -> GPT-4o produces copy + HTML
 <img src="docs/samples/rolex.png" width="400" alt="Rolex Ad"/>
 </p>
 <p align="center">
-<img src="docs/samples/tesla.png" width="400" alt="Tesla Ad"/>
-<img src="docs/samples/levis.png" width="400" alt="Levi's Ad"/>
+<img src="docs/samples/porsche.png" width="400" alt="Porsche 911 GT3 RS Ad"/>
+<img src="docs/samples/ikea.png" width="400" alt="IKEA KALLAX Ad"/>
 </p>
 <p align="center">
-<img src="docs/samples/dyson.png" width="400" alt="Dyson Ad"/>
-<img src="docs/samples/nike.png" width="400" alt="Nike Ad"/>
+<img src="docs/samples/tesla.png" width="400" alt="Tesla Ad"/>
+<img src="docs/samples/chanel.png" width="400" alt="Chanel No. 5 Ad"/>
 </p>
 
 *Each ad above was generated end-to-end by the pipeline — no manual editing, no templates. Typography, layout, colors, and copy are all AI-generated and dynamically adapted per brand.*
