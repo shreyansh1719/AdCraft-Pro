@@ -24,6 +24,9 @@ __pycache__/
 output/
 logs/
 
+# Legacy code (moved, not deleted)
+legacy/
+
 # Data outputs (scraped/processed data)
 data/processed/
 data/raw/

@@ -32,7 +32,7 @@ User Input (brand, product, tone, style)
           |
           v
 +-------------------------------------+
-|  Fine-tuned gpt-4.1-mini            |  Trained on 421 real ad examples
+|  Fine-tuned gpt-4.1-mini            |  Trained on 118 curated examples
 |  Outputs: tone, visual style,       |  SFT + DPO on 34 preference pairs
 |  typography, colors, technique,     |
 |  target market, competitors         |
